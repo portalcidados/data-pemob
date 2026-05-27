@@ -25,3 +25,9 @@ pelo frontend do Portal das Cidades.
 - Arquivos grandes (`.xlsx`, CSVs harmonizados completos) ficam fora do
   controle de versão — ver `.gitignore`.
 - Projeto RStudio: abrir `simu_pemob.Rproj`.
+
+## Próximos passos
+
+- Incorporar dados da pesquisa de 2025
+- Pipeline para dataset Metropolitano
+- Refatorar código e usar {renv}
