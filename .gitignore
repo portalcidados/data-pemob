@@ -1,0 +1,26 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj.user
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Private notes
+reuniao_pemob.notes
+*.notes
+
+# Large / source data (keep small dict CSVs + portal JSONs)
+data/*.xlsx
+data/*.zip
+data/pemob_harmonizada_2024.csv
+data/pemob_portal_teste.csv
+data/portal/**/*.xlsx
+data/portal/**/*.zip
+
+# Environment
+.Renviron
+.env

@@ -1,0 +1,453 @@
+name_variable,code_variable
+Serviços de transporte público municipal,1.1.1
+Serviços de transporte público intermunicipal/ metropolitano,1.2.1
+Serviços de transporte público por consórcio,1.2.2
+Integração física,1.3.1
+Nº de terminais rodoviários,1.4.1.A
+Nº de estações metroferroviárias,1.4.1.B
+"Terminais rodoviários acessíveis com rampas, plataformas de embarque em nível",1.4.1.C
+"Estações metroferroviárias acessíveis com rampas, plataformas de embarque em nível",1.4.1.D
+Terminais rodoviários acessíveis com informações para pessoas com deficiência visual,1.4.1.E
+Estações metroferroviárias acessíveis com informações para pessoas com deficiência visual,1.4.1.F
+Terminais rodoviários com integração física,1.4.1.G
+Estações metroferroviárias com integração física,1.4.1.H
+Pontos de embarque e desembarque,1.4.2
+Pontos de embarque e desembarque com abrigo para usuários,1.4.3
+Pontos de embarque e desembarque georreferenciados,1.4.4
+website,1.4.4.A
+Ônibus convencional: Número de veículos,1.5.1.A
+Ônibus convencional: Capacidade média,1.5.1.B
+Ônibus convencional: Nº de veículos de piso baixo,1.5.1.C
+Ônibus convencional: Nº de veículos com plataforma elevatória,1.5.1.D
+Ônibus articulado: Número de veículos,1.5.1.E
+Ônibus articulado: Capacidade média,1.5.1.F
+Ônibus articulado: Nº de veículos de piso baixo,1.5.1.G
+Ônibus articulado: Nº de veículos com plataforma elevatória,1.5.1.H
+Ônibus biarticulado: Número de veículos,1.5.1.I
+Ônibus biarticulado: Capacidade média,1.5.1.J
+Ônibus biarticulado: Nº de veículos de piso baixo,1.5.1.K
+Ônibus biarticulado: Nº de veículos com plataforma elevatória,1.5.1.L
+Vans: Número de veículos,1.5.1.M
+Vans: Capacidade média,1.5.1.N
+Táxi: Número de  veículos,1.5.1.O
+Mototáxi: Número de veículos,1.5.1.P
+Metrô: Número de veículos,1.5.1.Q
+Metrô: Capacidade média,1.5.1.R
+Trem: Número de veículos,1.5.1.S
+Trem: Capacidade média,1.5.1.T
+Barco: Número de veículos,1.5.1.U
+Barco: Capacidade média,1.5.1.V
+VLT: Número de veículos,1.5.1.W
+VLT: Capacidade média,1.5.1.X
+Monotrilho: Nº de veículos,1.5.1.Y
+Monotrilho: Capacidade média,1.5.1.Z
+Aeromóvel: Nº de veículos,1.5.1.AA
+Aeromóvel: Capacidade média,1.5.1.AB
+Frota de outros serviços de transporte: Fretamento,1.5.2.A
+Frota de outros serviços de transporte: Transporte escolar,1.5.2.B
+Vias onde apenas pedestres podem circular - permanente (km),1.6.1.A
+Vias onde apenas pedestres podem circular - temporária (km),1.6.1.B
+Calçadas - parte da via reservada ao trânsito de pedestre (km),1.6.1.C
+Vias exclusivas para BRT's (km),1.6.1.D
+Corredores de ônibus (km),1.6.1.E
+Faixa exclusivas de ônibus (km),1.6.1.F
+Ciclovias (km),1.6.1.G
+Ciclofaixas (km),1.6.1.H
+Metrô (km),1.6.1.I
+Trem (km),1.6.1.J
+VLT (km),1.6.1.K
+Monotrilho (km),1.6.1.L
+Aeromóvel (km),1.6.1.M
+Km percorrida - Ônibus,1.7.1.A
+Km percorrida - Vans/microônibus,1.7.1.B
+Km percorrida - Metrô,1.7.1.C
+Km percorrida - Trem,1.7.1.D
+Km percorrida - Barco,1.7.1.E
+Km percorrida - VLT,1.7.1.F
+Km percorrida - Monotrilho,1.7.1.G
+Km percorrida - Aeromóvel,1.7.1.H
+velocidade média: BRT (Km/h),2.1.1.A
+Velocidade média: Corredores de ônibus (Km/h),2.1.1.B
+Velocidade média: Faixas exclusivas de ônibus (Km/h),2.1.1.C
+Velocidade média: Metrô (Km/h),2.1.1.D
+Velocidade média: Trem (Km/h),2.1.1.E
+Velocidade média: VLT (Km/h),2.1.1.F
+Velocidade média: Monotrilho (Km/h),2.1.1.G
+Velocidade média:  Aeromóvel (Km/h),2.1.1.H
+Velocidade média em tráfego misto (Km/h),2.1.2
+Circulação de táxis nos corredores,2.2.1
+Idade da frota: Ônibus,2.3.1.A
+Idade da frota: Vans/microônibus,2.3.1.B
+Idade da frota: Metrô,2.3.1.C
+Idade da frota: Trem,2.3.1.D
+Idade da frota: VLT,2.3.1.E
+Idade da frota: Monotrilho,2.3.1.F
+Idade da frota: Aeromóvel,2.3.1.G
+Idade da frota: Táxi,2.3.1.H
+Informações de itinerários - Terminais Rodoviários,2.4.1.A
+Informações de horários - Terminais Rodoviários,2.4.1.B
+Informações de tarifas - Terminais Rodoviários,2.4.1.C
+Informações sobre integração - Terminais Rodoviários,2.4.1.D
+Informações sobre itinerários - Estações metroferroviárias,2.4.1.E
+Informações sobre horários - Estações metroferroviárias,2.4.1.F
+Informações sobre tarifas - Estações metroferroviárias,2.4.1.G
+Informações sobre integração - Estações metroferroviárias,2.4.1.H
+Informações sobre itinerários - pontos de parada,2.4.2.A
+Informações sobre horários - pontos de parada,2.4.2.B
+Informações sobre tarifas - pontos de parada,2.4.2.C
+Informações sobre integração - pontos de parada,2.4.2.D
+Pesquisa de satisfação dos usuários,2.5.1
+Ano de realização:,2.5.1.A
+Website - Pesquisa de Satisfação,2.5.1.B
+Possui informações sobre pontualidade e regularidade,2.6.1
+Pontualidade - Ônibus,2.6.2.A
+Pontualidade - Vans/microônibus,2.6.2.B
+Pontualidade - Metrô,2.6.2.C
+Pontualidade - Trem,2.6.2.D
+Pontualidade - Barco,2.6.2.E
+Pontualidade - VLT,2.6.2.F
+Pontualidade- Monotrilho,2.6.2.G
+Pontualidade - Aeromóvel,2.6.2.H
+Viagens não completadas - Ônibus,2.6.2.I
+Viagens não completadas - Vans/microônibus,2.6.2.J
+Viagens não completadas - Metrô,2.6.2.K
+Viagens não completadas - Trem,2.6.2.L
+Viagens não completadas - Barco,2.6.2.M
+Viagens não completadas - VLT,2.6.2.N
+Viagens não completadas - Monotrilho,2.6.2.O
+Viagens não completadas - Aeromóvel,2.6.2.P
+Tarifa predominante (R$),3.1.1.A
+valor anterior (R$),3.1.1.B
+Último reajuste (mm/aaaa),3.1.1.C
+Outros valores de tarifa existentes: - Descrição do serviço,3.1.2.A
+Outros valores de tarifa existentes: -  Valor (R$):,3.1.2.B
+Integração tarifária,3.1.3
+Receita tarifária - Ônibus,3.2.1.A
+Receita extratarifária - Ônibus,3.2.1.B
+Receita tarifária - Vans/Microônibus,3.2.1.C
+Receita extratarifária - Vans/Microônibus,3.2.1.D
+Receita tarifária - Metrô,3.2.1.E
+Receita extratarifária - Metrô,3.2.1.F
+Receita tarifária - Trem,3.2.1.G
+Receita extratarifária - Trem,3.2.1.H
+Receita tarifária - Barco,3.2.1.I
+Receita extratarifária - Barco,3.2.1.J
+Receita tarifária - VLT,3.2.1.K
+Receita extratarifária - VLT,3.2.1.L
+Receita tarifária - Monotrilho,3.2.1.M
+Receita extratarifária - Monotrilho,3.2.1.N
+Receita tarifária - Aeromóvel,3.2.1.O
+Receita extratarifária - Aeromóvel,3.2.1.P
+Subsídio público  - Ônibus,3.2.2.A
+Publicidade  - Ônibus,3.2.2.B
+Outras fontes  - Ônibus,3.2.2.C
+Subsídio público  - Vans/Microônibus,3.2.2.D
+Publicidade  - Vans/Microônibus,3.2.2.E
+Outras fontes  - Vans/Microônibus,3.2.2.F
+Subsídio público  - Metrô,3.2.2.G
+Publicidade  - Metrô,3.2.2.H
+Outras fontes  - Metrô,3.2.2.I
+Subsídio público  - Trem,3.2.2.J
+Publicidade  - Trem,3.2.2.K
+Outras fontes  - Trem,3.2.2.L
+Subsídio público  - Barco,3.2.2.M
+Publicidade  - Barco,3.2.2.N
+Outras fontes  - Barco,3.2.2.O
+Subsídio público  - VLT,3.2.2.P
+Publicidade  - VLT,3.2.2.Q
+Outras fontes  - VLT,3.2.2.R
+Subsídio público  - Monotrilho,3.2.2.S
+Publicidade  - Monotrilho,3.2.2.T
+Outras fontes  - Monotrilho,3.2.2.U
+Subsídio público  - Aeromóvel,3.2.2.V
+Publicidade  - Aeromóvel,3.2.2.W
+Outras fontes  - Aeromóvel,3.2.2.Y
+ISS (%) - Ônibus,3.3.1.A
+Taxa de Gerenciamento (%) - Ônibus,3.3.1.B
+PIS (%) - Ônibus,3.3.1.C
+Cofins (%) - Ônibus,3.3.1.D
+Outros (%) - Ônibus,3.3.1.E
+"Se “Outros”, qual? - Ônibus",3.3.1.F
+ISS (%) - Vans/Microônibus,3.3.1.G
+Taxa de Gerenciamento (%) - Vans/Microônibus,3.3.1.H
+PIS (%) - Vans/Microônibus,3.3.1.I
+Cofins (%) - Vans/Microônibus,3.3.1.J
+Outros (%) - Vans/Microônibus,3.3.1.K
+"Se “Outros”, qual? - Vans/Microônibus",3.3.1.L
+ISS (%) - Metrô,3.3.1.M
+Taxa de Gerenciamento (%) - Metrô,3.3.1.N
+PIS (%) - Metrô,3.3.1.O
+Cofins (%) - Metrô,3.3.1.P
+Outros (%) - Metrô,3.3.1.Q
+"Se “Outros”, qual? - Metrô",3.3.1.R
+ISS (%) - Trem,3.3.1.S
+Taxa de Gerenciamento (%) - Trem,3.3.1.T
+PIS (%) - Trem,3.3.1.U
+Cofins (%) - Trem,3.3.1.V
+Outros (%) - Trem,3.3.1.W
+"Se “Outros”, qual? - Trem",3.3.1.X
+ISS (%) - Barco,3.3.1.Y
+Taxa de Gerenciamento (%) - Barco,3.3.1.Z
+PIS (%) - Barco,3.3.1.AA
+Cofins (%) - Barco,3.3.1.AB
+Outros (%) - Barco,3.3.1.AC
+"Se “Outros”, qual? - Barco",3.3.1.AD
+ISS (%) - VLT,3.3.1.AE
+Taxa de Gerenciamento (%) - VLT,3.3.1.AF
+PIS (%) - VLT,3.3.1.AG
+Cofins (%) - VLT,3.3.1.AH
+Outros (%) - VLT,3.3.1.AI
+"Se “Outros”, qual? - VLT",3.3.1.AJ
+ISS (%) - Monotrilho,3.3.1.AK
+Taxa de Gerenciamento (%) - Monotrilho,3.3.1.AL
+PIS (%) - Monotrilho,3.3.1.AM
+Cofins (%) - Monotrilho,3.3.1.AN
+Outros (%) - Monotrilho,3.3.1.AO
+"Se “Outros”, qual? - Monotrilho",3.3.1.AP
+ISS (%) - Aeromóvel,3.3.1.AQ
+Taxa de Gerenciamento (%) - Aeromóvel,3.3.1.AR
+PIS (%) - Aeromóvel,3.3.1.AS
+Cofins (%) - Aeromóvel,3.3.1.AT
+Outros (%) - Aeromóvel,3.3.1.AU
+"Se “Outros”, qual? - Aeromóvel",3.3.1.AV
+Pagante Comum - Ônibus,3.4.1.A
+Vale Transporte - Ônibus,3.4.1.B
+Estudante - Ônibus,3.4.1.C
+Integração - Ônibus,3.4.1.D
+Gratuidades - Ônibus,3.4.1.E
+Equivalentes - Ônibus,3.4.1.F
+Pagante comum - Vans/Microônibus,3.4.1.G
+Vale Transporte - Vans/Microônibus,3.4.1.H
+Estudante - Vans/Microônibus,3.4.1.I
+Integração - Vans/Microônibus,3.4.1.J
+Gratuidades - Vans/Microônibus,3.4.1.K
+Equivalentes - Vans/Microônibus,3.4.1.L
+Pagante comum - Metrô,3.4.1.M
+Vale Transporte - Metrô,3.4.1.N
+Estudante - Metrô,3.4.1.O
+Integração - Metrô,3.4.1.P
+Gratuidades - Metrô,3.4.1.Q
+Equivalentes - Metrô,3.4.1.R
+Pagante comum -Trem,3.4.1.S
+Vale Transporte - Trem,3.4.1.T
+Estudante - Trem,3.4.1.U
+Integração - Trem,3.4.1.V
+Gratuidades - Trem,3.4.1.W
+Equivalentes - Trem,3.4.1.X
+Pagante comum - Barco,3.4.1.Y
+Vale Transporte - Barco,3.4.1.Z
+Estudante - Barco,3.4.1.AA
+Integração - Barco,3.4.1.AB
+Gratuidades - Barco,3.4.1.AC
+Equivalentes - Barco,3.4.1.AD
+Pagante comum - VLT,3.4.1.AE
+Vale Transporte - VLT,3.4.1.AF
+Estudante - VLT,3.4.1.AG
+Integração - VLT,3.4.1.AH
+Gratuidades - VLT,3.4.1.AI
+Equivalentes - VLT,3.4.1.AJ
+Pagante comum - Monotrilho,3.4.1.AK
+Vale Transporte - Monotrilho,3.4.1.AL
+Estudante - Monotrilho,3.4.1.AM
+Integração - Monotrilho,3.4.1.AN
+Gratuidades - Monotrilho,3.4.1.AO
+Equivalentes - Monotrilho,3.4.1.AP
+Pagante comum - Aeromóvel,3.4.1.AQ
+Vale Transporte - Aeromóvel,3.4.1.AR
+Estudante - Aeromóvel,3.4.1.AS
+Integração - Aeromóvel,3.4.1.AT
+Gratuidades - Aeromóvel,3.4.1.AV
+Equivalentes - Aeromóvel,3.4.1.AW
+Descontos - Pessoas de baixa renda,3.5.1.A
+Pessoas de baixa renda –  Limite de renda (Em Salários Mínimos),3.5.1.B
+Desconto para pessoas 60 a 65 anos (%),3.5.1.C
+Desconto para pessoas com deficiência e mobilidade reduzida (%),3.5.1.D
+Desconto para estudantes da rede pública (%),3.5.1.E
+Desconto para estudantes da rede privada (%),3.5.1.F
+Qual o valor da bandeirada por transporte individual (táxi)? : Tarifas : Bandeirada (R$) - Táxi,3.6.1.A
+Bandeirada 1 (R$/km) - Táxi,3.6.1.B
+Bandeirada 2 (R$/km)  - Táxi,3.6.1.C
+Hora parada (R$/h)  - Táxi,3.6.1.D
+Tarifa Aeroporto (R$/km)  - Táxi,3.6.1.E
+Bandeirada (R$) - Mototáxi,3.6.1.F
+Bandeirada 1 (R$/km) - Mototáxi,3.6.1.G
+Bandeirada 2 (R$/km)  - Mototáxi,3.6.1.H
+Hora parada (R$/h)  - Mototáxi,3.6.1.I
+Tarifa Aeroporto (R$/km)  -  Mototáxi,3.6.1.K
+Tarifa baseada em planilha de custos,3.7.1
+Combustível - Ônibus,3.7.1.A
+Despesa com pessoal/ Operação - Ônibus,3.7.1.B
+Depreciação/ Veículos - Ônibus,3.7.1.C
+Peças e acessórios - Ônibus,3.7.1.D
+Outros -Ônibus,3.7.1.E
+Combustível - Vans/Microônibus,3.7.1.F
+Despesa com pessoal/ Operação - Vans/Microônibus,3.7.1.G
+Depreciação/ Veículos - Vans/Microônibus,3.7.1.H
+Peças e acessórios - Vans/Microônibus,3.7.1.I
+Outros - Vans/Microônibus,3.7.1.J
+Despesa com pessoal/Operação - Metrô,3.7.1.K
+Depreciação/ Veículos - Metrô,3.7.1.L
+Peças e acessórios - Metrô,3.7.1.M
+Energia - Metrô,3.7.1.N
+IPTU - Metrô,3.7.1.O
+Outros - Metrô,3.7.1.P
+Combustível - Trem,3.7.1.Q
+Despesa com pessoal/ Operação - Trem,3.7.1.R
+Depreciação/Veículos - Trem,3.7.1.S
+Peças e acessórios - Trem,3.7.1.T
+Energia - Trem,3.7.1.U
+IPTU - Trem,3.7.1.V
+Outros - Trem,3.7.1.W
+Combustível - Barco,3.7.1.X
+Despesa com pessoal/ Operação - Barco,3.7.1.Y
+Depreciação/Veículos - Barco,3.7.1.Z
+Peças e acessórios - Barco,3.7.1.AA
+Outros - Barco,3.7.1.AB
+Despesa com pessoal/ Operação - VLT,3.7.1.AC
+Depreciação/ Veículos - VLT,3.7.1.AD
+Peças e acessórios - VLT,3.7.1.AE
+Energia - VLT,3.7.1.AF
+IPTU - VLT,3.7.1.AG
+Outros - VLT,3.7.1.AH
+Despesa com pessoal/ Operação - Monotrilho,3.7.1.AI
+Depreciação/ Veículos - Monotrilho,3.7.1.AJ
+Peças e acessórios - Monotrilho,3.7.1.AK
+Energia - Monotrilho,3.7.1.AL
+IPTU - Monotrilho,3.7.1.AM
+Outros - Monotrilho,3.7.1.AN
+Despesa com pessoal/ Operação - Aeromóvel,3.7.1.AO
+Depreciação/ Veículos - Aeromóvel,3.7.1.AP
+Peças e acessórios - Aeromóvel,3.7.1.AQ
+Energia - Aeromóvel,3.7.1.AR
+IPTU - Aeromóvel,3.7.1.AS
+Outros - Aeromóvel,3.7.1.AT
+Plano Diretor,4.1.1
+Última atualização,4.1.1.A
+Lei de Zoneamento,4.2.1
+Plano de Mob Urb  de RM,4.3.1
+Qual RM ou AU?,4.3.1.A
+Website do plano,4.3.1.B
+PDUI,4.3.2
+Qual RM?,4.3.2.A
+Website PDUI,4.3.2.B
+Possui Plano de Mob Urb,4.4.1
+Website Plano de Mob Urb,4.4.1.A
+Outros planos da área,4.4.2
+Ano de elaboração/ atualização do Planmob,4.5.1
+Instrumento normativo do plano,4.5.2
+Metodologias de participação,4.6.1
+Itens considerados na elaboração do plano,4.6.2
+Serviços de transporte público coletivo,4.7.1.A
+Circulação viária,4.7.1.B
+Infraestruturas do sistema de mobilidade urbana,4.7.1.C
+Acessibilidade para pessoas com deficiência e restrição de mobilidade,4.7.1.D
+Integração dos modos de transporte público e destes com os privados e os não motorizados,4.7.1.E
+Operação e o disciplinamento do transporte de carga na infraestrutura viária,4.7.1.F
+Pólos geradores de viagens,4.7.1.G
+"Áreas de estacionamento públicos e privados, gratuitos e onerosos",4.7.1.H
+Áreas e horários de acesso e circulação restrita e controlada,4.7.1.I
+Mecanismos e instrumentos de financiamento do transporte público e da infraestrutura de mobilidade urbana,4.7.1.J
+"Sistemática de avaliação, revisão e atualização periódica do plano de mobilidade urbana",4.7.1.K
+Medidas destinadas a atender aos núcleos urbanos informais consolidados,4.7.1.L
+Pesquisa Origem – Destino,4.8.1
+Ano de realização da última O/D,4.8.1.A
+Periodicidade,4.8.1.B
+Website da O/D,4.8.1.C
+Nº médio de viagens diárias,4.8.1.D
+"Distância média das viagens 
+(km)",4.8.1.E
+"Tempo médio das viagens
+(min)",4.8.1.F
+Divisão modal? -  A pé (%),4.8.1.G
+Divisão modal? - Bicicleta (%),4.8.1.H
+Divisão modal? - Transporte coletivo (%),4.8.1.H
+Divisão modal? -Transporte individual motorizado (Automóvel) (%),4.8.1.I
+Divisão modal? -Transporte individual motorizado (Moto) (%),4.8.1.J
+Pedágio urbano,5.1.1
+Arrecadação anual no ano de 2018? (R$),5.1.1.A
+Nº de vagas de estacionamentos regulamentados,5.2.1
+% de vagas reservadas - para pessoas com deficiência e mobilidade reduzida,5.2.1.A
+% de vagas reservadas - para idosos?,5.2.1.B
+% de vagas reservadas - para gestantes?,5.2.1.C
+Área Azul,5.2.2
+Arrecadação com Área Azul em 2018,5.2.2.A
+Controle e determinação de padrões de emissão de poluentes para determinados locais e horários,5.3.1.A
+Controle de uso e operação da infraestrutura viária destinada à circulação e operação do transporte de cargas,5.3.1.B
+Monitoramento e controle das emissões dos gases de efeito estufa e local dos modos de transporte motorizados,5.3.1.C
+Convênio ou instrumento equivalente para o combate ao transporte ilegal de passageiros,5.3.1.D
+Convênios para o transporte coletivo urbano internacional,5.3.1.E
+Rodizio de veículos,5.3.1.F
+Projetos públicos (em elaboração ou a implementar) que promovam áreas ou rotas acessíveis na cidade,6.1.1.A
+Obras públicas de áreas ou rotas acessíveis na cidade (finalizadas no ano de 2018),6.1.1.B
+Planos de adequação de infraestrutura existente (em elaboração ou a implementar),6.1.1.C
+Legislação municipal específica,6.1.1.D
+Material técnico para construção de calçadas ou espaços públicos acessíveis,6.1.1.E
+Campanhas de sensibilização/educativas,6.1.1.F
+Recursos orçamentários para promoção da acessibilidade (previsão para o ano corrente),6.1.1.G
+Lei Orgânica,6.2.1.A
+Plano Diretor,6.2.1.B
+Lei de Parcelamento,6.2.1.C
+Lei de Uso e Ocupação do Solo,6.2.1.D
+Código de Obras e de Edificações,6.2.1.E
+Código de Posturas,6.2.1.F
+Serviço especial de transporte gratuito para as pessoas com deficiência,6.3.1
+Energia alternativa no transporte público,7.1.1
+Etanol - % frota,7.1.1.A
+Eletrecidade - % frota,7.1.1.B
+Gás Natural - % frota,7.1.1.C
+Hidrogênio - % frota,7.1.1.D
+Biodiesel - % frota,7.1.1.E
+Híbrido (eletrecidade + diesel) - % frota,7.1.1.F
+Energia alternativa na frota de táxi,7.2.1
+Etanol - % frota,7.2.1.A
+Eletrecidade - % frota,7.2.1.A
+Gás Natural - % frota,7.2.1.A
+Híbrido (Eletrecidade + Gasolina) - % frota,7.2.1.A
+Inspeção veicular,7.3.1
+Conselho municipal de transporte e/ou mobilidade urbana,8.1.1
+A mobilidade urbana é discutida no Conselho da Cidade ou outro órgão colegiado,8.1.2
+Caráter do conselho,8.2.1
+Composição do Conselho: Poder Executivo (%),8.2.2.A
+Composição do Conselho: Poder Legislativo (%),8.2.2.B
+Composição do Conselho: Sociedade civil (%),8.2.2.C
+Composição do Conselho: Operadores dos serviços de transporte (%),8.2.2.D
+Composição do Conselho: Outros (%),8.2.2.E
+Mês e ano da última reunião (mm/aa):,8.2.3
+Ouvidoria ou estrutura similar,8.3.1
+Tipo de consulta popular,8.4.1
+Alterações na geometria da via por meio de estreitamento ou mudança de alinhamento,9.1.1.A
+"Dispositivos físicos de redução de velocidade, como ondulação, platô, sonorizador e chicanas",9.1.1.B
+Dispositivos eletrônicos para controle de velocidade,9.1.1.C
+Diferenciação de pavimento para redução da velocidade dos automóveis,9.1.1.D
+Estabelecimento de limite de velocidade de 30 km/h (Zona 30),9.1.1.E
+Agentes de trânsito em exercício,9.1.2
+Número de equipamentos de fiscalização de velocidade,9.1.3
+Arrecadação anual com multas de trânsito (R$),9.1.4
+Caracterização do órgão responsável pela gestão do sistema de mobilidade urbana,10.1.A
+Regulamentação do transporte público,11.1.1
+Modalidades de delegação de serviço de transporte público coletivo existem no município,11.1.2
+Transporte público é licitado,11.2.1
+"Prazo do contrato
+(em anos)",11.2.1.A
+Data de vencimento do contrato (mm/aa),11.2.1.B
+Base de remuneração do operador,11.3.1
+Transporte não regulamentado,11.4.1
+Tipo de veículo que realiza o transporte não regulamentado,11.4.1.A
+Regulamentação para o transporte remunerado privado individual,11.5.1
+Nº de viagens realizadas em 2018 por transporte remunerado privado individual,11.5.1.A
+"Km percorrida em 2018 por transporte remunerado privado individual
+(Km)",11.5.1.B
+"Arrecadação em 2018 por transporte remunerado privado individual
+(R$)",11.5.1.C
+Fundo municipal de transporte e/ou mobilidade urbana,12.1.1
+O município faz uso de algum instrumento urbanístico previsto no Estatuto da Cidade (Lei Federal nº 10.257/2001) para viabilizar investimentos em mobilidade urbana?,12.1.2
+Bilhetagem eletrônica,13.1.1.A
+"Monitoramento eletrônico de frotas (GPS, câmeras, sensores, transmissão por rádio, etc.)",13.1.1.B
+Informação em tempo real aos usuários (AVL - Automatic Vehicle Location),13.1.1.C
+Centro de controle operacional,13.1.1.D
+Centro de controle de tráfego,13.1.1.E
+Sistema de semáforos inteligentes,13.1.1.F
+Outro,13.1.1.G
+Outra inovação tecnoloógica: Qual ?,13.1.1.H
+Informação do transporte público coletivo em formato GTFS (General Transit Feed Specification),13.2.1
+Website dos dados GTFS,13.2.1.A

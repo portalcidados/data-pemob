@@ -1,0 +1,472 @@
+name_variable,code_variable
+"Quais os serviços de transporte público urbano estão presentes no município, sob gestão da prefeitura, seja por operação direta ou por delegação?",1.1.1
+"Quais os serviços de transporte público urbano estão presentes no município em que o Governo do Estado é responsável pela gestão, seja gestão direta ou indireta?",1.2.1
+"Quais os serviços de transporte público urbano estão presentes no município em que o Governo Federal é responsável pela gestão, seja gestão direta ou indireta?",1.2.2
+"Quais os serviços de transporte público urbano estão presentes no município, sob gestão de um consórcio público ou de um convênio de cooperação para gestão do transporte metropolitano, seja de gestão direta ou indireta?",1.2.3
+Quais os tipos de integração física entre os diferentes modos de transporte urbano existem em seu município?,1.3.1
+Qual o número total de terminais rodoviários no município?,1.4.1.A
+"Qual o número total de terminais rodoviários acessíveis com rampas, plataformas de embarque em nível?",1.4.1.B
+Qual o número total de terminais rodoviários acessíveis com informações para pessoas com deficiência visual?,1.4.1.C
+Qual o número total de terminais rodoviários com integração física?,1.4.1.D
+Qual o número total de estações metroferroviárias no município?,1.4.1.E
+"Qual o número total de estações metroferroviárias acessíveis com rampas, plataformas de embarque em nível?",1.4.1.F
+Qual o número total de estações metroferroviárias acessíveis com informações para pessoas com deficiência visual?,1.4.1.G
+Qual o número total de estações metroferroviárias com integração física?,1.4.1.H
+"Qual o número total de pontos de embarque e desembarque, considerando todos os modos de transporte?",1.4.2
+"Qual o número total de pontos de embarque e desembarque com abrigo para usuários, considerando todos os modos de transporte?",1.4.3
+"Qual o número total de pontos de embarque e desembarque com plataforma de embarque em nível para usuários, considerando todos os modos de transporte?",1.4.4
+O município disponibiliza o local de pontos de embarque de desembarque georreferenciados na internet?,1.4.5
+Em qual website é possível obter os pontos de embarque e desembarque georreferenciados?,1.4.5.A
+Qual a frota de veículos operacionais de ônibus convencional no município?,1.5.1.A
+Qual a capacidade média da frota de ônibus convencionais operacionais no município?,1.5.1.B
+Qual o número de ônibus convencionais operacionais de piso baixo no município?,1.5.1.C
+Qual o número de ônibus convencionais operacionais com plataforma elevatória no município?,1.5.1.D
+Qual a frota de veículos operacionais de ônibus articulado no município?,1.5.1.E
+Qual a capacidade média de ônibus articulado operacionais no município?,1.5.1.F
+Qual o número de ônibus articulados operacionais de piso baixo?,1.5.1.G
+Qual o número de ônibus articulados operacionais com plataforma elevatória no município?,1.5.1.H
+Qual a frota de veículos operacionais de ônibus biarticulado no município?,1.5.1.I
+Qual a capacidade média de ônibus biarticulado operacionais no município?,1.5.1.J
+Qual o número de ônibus biarticulados operacionais de piso baixo?,1.5.1.K
+Qual o número de ônibus biarticulados operacionais com plataforma elevatória no município?,1.5.1.L
+Qual a frota de veículos operacionais de vans/microônibus no município?,1.5.1.M
+Qual a capacidade média da frota de vans/microônibus operacionais no município?,1.5.1.N
+Qual a frota de veículos operacionais de táxi no município?,1.5.1.O
+Qual a frota de veículos operacionais de mototáxi no município?,1.5.1.P
+Qual a frota de veículos operacionais de metrô (composição) no município?,1.5.1.Q
+Qual a capacidade média de um veículo de metrô (composição) no município?,1.5.1.R
+Qual a frota de veículos operacionais de trem (composição) no município?,1.5.1.S
+Qual a capacidade média de um veículo de trem (composição) no município?,1.5.1.T
+Qual a frota de barcos operacionais no município?,1.5.1.U
+Qual a capacidade média da frota de barco no município?,1.5.1.V
+Qual a frota de veículos operacionais de VLT (composição) no município?,1.5.1.W
+Qual a capacidade média de um veículo de VLT (composição) no município?,1.5.1.X
+Qual a frota de veículos operacionais de monotrilho (composição) no município?,1.5.1.Y
+Qual a capacidade média de um veículo de monotrilho (composição) no município?,1.5.1.Z
+Qual a frota de veículos operacionais de aeromóvel (composição) no município?,1.5.1.AA
+Qual a capacidade média de um aeromóvel no município?,1.5.1.AB
+Qual a frota de bicicletas compartilhadas operacionais no município?,1.5.1.AC
+Qual a frota de veículos para fretamento para transporte de passageiro no município?,1.5.2.A
+Qual a frota de veículos para transporte escolar no município?,1.5.2.B
+Qual a quilometragem de vias dedicadas onde apenas pedestres podem circular (permanente)?,1.6.1.A
+Qual a quilometragem de vias dedicadas onde apenas pedestres podem circular (temporária)?,1.6.1.B
+Qual a quilometragem de calçadas no município (parte da via reservada ao trânsito de pedestres)?,1.6.1.C
+Qual a quilometragem de vias dedicadas exclusivas para BRTs no município?,1.6.1.D
+Qual a quilometragem de vias dedicadas exclusivamente a corredores de ônibus no município?,1.6.1.E
+Qual a quilometragem de vias dedicadas a faixas exclusivas no município?,1.6.1.F
+Qual a quilometragem de vias dedicadas exclusivamente a ciclovias no município?,1.6.1.G
+Qual a quilometragem de vias dedicadas exclusivamente a ciclofaixas no município?,1.6.1.H
+Qual a quilometragem de vias dedicadas exclusivamente a metrô no município?,1.6.1.I
+Qual a quilometragem de vias dedicadas exclusivamente a trem no município?,1.6.1.J
+Qual a quilometragem de vias dedicadas exclusivamente a VLT no município?,1.6.1.K
+Qual a quilometragem de vias dedicadas exclusivamente a monotrilho no município?,1.6.1.L
+Qual a quilometragem de vias dedicadas exclusivamente a aeromóvel no município?,1.6.1.M
+Qual a quilometragem percorrida no ano de 2021 pela frota de ônibus do município?,1.7.1.A
+Qual a quilometragem percorrida no ano de 2021 pela frota de vans/microônibus do município?,1.7.1.B
+Qual a quilometragem percorrida no ano de 2021 pela frota de metrô do município?,1.7.1.C
+Qual a quilometragem percorrida no ano de 2021 pela frota de trem do município?,1.7.1.D
+Qual a quilometragem percorrida no ano de 2021 pela frota de barco/catamarã do município?,1.7.1.E
+Qual a quilometragem percorrida no ano de 2021 pela frota de VLT do município?,1.7.1.F
+Qual a quilometragem percorrida no ano de 2021 pela frota de monotrilho do município?,1.7.1.G
+Qual a quilometragem percorrida no ano de 2021 pela frota de aeromóvel do município?,1.7.1.H
+Qual a velocidade média operacional (km/h) do sistema de BRT do município em faixas prioritárias no horário de pico?,2.1.1.A
+Qual a velocidade média operacional (km/h) nos corredores de ônibus do município no horário de pico?,2.1.1.B
+Qual a velocidade média operacional (km/h) nas faixas exclusivas de ônibus do município no horário de pico?,2.1.1.C
+Qual a velocidade média operacional (km/h) do sistema de metrô do município no horário de pico?,2.1.1.D
+Qual a velocidade média operacional (km/h) do sistema de trem do município no horário de pico?,2.1.1.E
+Qual a velocidade média operacional (km/h) do sistema de VLT do município no horário de pico?,2.1.1.F
+Qual a velocidade média operacional (km/h) do sistema de monotrilho do município no horário de pico?,2.1.1.G
+Qual a velocidade média operacional (km/h) do sistema de aeromóvel do município no horário de pico?,2.1.1.H
+Qual a velocidade média operacional (km/h) do sistema de transporte público coletivo em vias de tráfego misto no horário de pico?,2.1.2
+É possível a circulação de táxis nos corredores de ônibus?,2.2.1
+Qual a idade média da frota do serviço de transporte por ônibus no município? (em anos),2.3.1.A
+Qual a idade média da frota do serviço de transporte por vans/microônibus no município? (em anos),2.3.1.B
+Qual a idade média da frota do serviço de transporte por metrô no município? (em anos),2.3.1.C
+Qual a idade média da frota do serviço de transporte por trem no município? (em anos),2.3.1.D
+Qual a idade média da frota do serviço de transporte por VLT no município? (em anos),2.3.1.E
+Qual a idade média da frota do serviço de transporte por monotrilho no município? (em anos),2.3.1.F
+Qual a idade média da frota do serviço de transporte por aeromóvel no município? (em anos),2.3.1.G
+Qual a idade média da frota do serviço de transporte por Táxi no município? (em anos),2.3.1.H
+Qual o número de terminais rodoviários com informações aos usuários sobre itinerários?,2.4.1.A
+Qual o número de terminais rodoviários com informações aos usuários sobre horários?,2.4.1.B
+Qual o número de terminais rodoviários com informações aos usuários sobre tarifas dos serviços?,2.4.1.C
+Qual o número de terminais rodoviários com informações aos usuários sobre formas de integração com outros modos de transporte?,2.4.1.D
+Qual o número de estações metroferroviárias com informações aos usuários sobre itinerários?,2.4.1.E
+Qual o número de estações metroferroviárias com informações aos usuários sobre horários?,2.4.1.F
+Qual o número de estações metroferroviárias com informações aos usuários sobre tarifas dos serviços?,2.4.1.G
+Qual o número de estações metroferroviárias com informações aos usuários sobre formas de integração com outros modos de transporte?,2.4.1.H
+Qual o número total de pontos de embarque e desembarque com informações aos usuários sobre itinerários?,2.4.2.A
+Qual o número total de pontos de embarque e desembarque com informações aos usuários sobre horários?,2.4.2.B
+Qual o número total de pontos de embarque e desembarque com informações aos usuários sobre tarifas?,2.4.2.C
+Qual o número total de pontos de embarque e desembarque com informações aos usuários sobre modos de interação com outros modos de transporte?,2.4.2.D
+O município realiza pesquisa de satisfação dos usuários?,2.5.1
+Ano de realização da pesquisa:,2.5.1.A
+Em qual website é possível obter a pesquisa de satisfação dos usuários em formato digital?,2.5.1.B
+O município possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por ônibus?,2.6.1.A
+O município possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por vans/microônibus?,2.6.1.B
+O município possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por metrô?,2.6.1.C
+O município possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por trem?,2.6.1.D
+O município possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por barco?,2.6.1.E
+O município possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por VLT?,2.6.1.F
+O município possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por monotrilho?,2.6.1.G
+O município possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por aeromóvel?,2.6.1.H
+Qual a porcentagem de viagens por ônibus foram realizadas dentro do horário programado em 2021? (%),2.6.2.A
+Qual a porcentagem de viagens por vans/microônibus foram realizadas dentro do horário programado em 2021? (%),2.6.2.B
+Qual a porcentagem de viagens por metrô foram realizadas dentro do horário programado em 2021? (%),2.6.2.C
+Qual a porcentagem de viagens por trem foram realizadas dentro do horário programado em 2021? (%),2.6.2.D
+Qual a porcentagem de viagens por barco foram realizadas dentro do horário programado em 2021? (%),2.6.2.E
+Qual a porcentagem de viagens por VLT foram realizadas dentro do horário programado em 2021? (%),2.6.2.F
+Qual a porcentagem de viagens por Monotrilho foram realizadas dentro do horário programado em 2021? (%),2.6.2.G
+Qual a porcentagem de viagens por aeromóvel foram realizadas dentro do horário programado em 2021? (%),2.6.2.H
+Qual a porcentagem de viagens por ônibus não foram completadas em 2021? (%),2.6.2.I
+Qual o percentual de viagens por vans/microônibus não foram completadas em 2021? (%),2.6.2.J
+Qual o percentual de viagens por metrô não foram completadas em 2021? (%),2.6.2.K
+Qual o percentual de viagens por trem não foram completadas em 2021? (%),2.6.2.L
+Qual o percentual de viagens por barco não foram completadas em 2021? (%),2.6.2.M
+Qual o percentual de viagens por VLT não foram completadas em 2021? (%),2.6.2.N
+Qual o percentual de viagens por monotrilho não foram completadas em 2021? (%),2.6.2.O
+Qual o percentual de viagens por aeromóvel não foram completadas em 2021? (%),2.6.2.P
+Qual o valor da atual tarifa predominante do município?,3.1.1.A
+Qual o valor anterior da tarifa predominante no município?,3.1.1.B
+Qual a data do último reajuste?,3.1.1.C
+Existe outros valores de tarifas na rede de transporte público coletivo no município?,3.1.2
+Quais outros serviços e respectivos valores de tarifas públicas existem no município?,3.1.2.A
+Quais as formas de integração tarifária existentes?,3.1.3
+Qual o valor da receita tarifária anual por ônibus arrecadado em 2021?,3.2.1.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por ônibus em 2021?",3.2.1.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por ônibus em 2021?",3.2.1.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por ônibus em 2021?",3.2.1.D
+"Se houver receita extratarifária, qual o valor arrecadado com outras fontes de recursos no sistema por ônibus em 2021?",3.2.1.E
+Qual o valor da receita tarifária anual por vans/microônibus arrecadado em 2021?,3.2.2.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por vans/microônibus em 2021?",3.2.2.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por vans/microônibus em 2021?",3.2.2.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por vans/microônibus em 2021?",3.2.2.D
+"Se houver receita extratarifária, qual o valor arrecadado com outras fontes de recursos no sistema por vans/microônibus em 2021?",3.2.2.E
+Qual o valor da receita tarifária anual por metrô arrecadado em 2021?,3.2.3.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por metrô em 2021?",3.2.3.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por metrô em 2021?",3.2.3.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por metrô em 2021?",3.2.3.D
+"Se houver receita extratarifária, qual o valor arrecadado com outras fontes de recursos no sistema por metrô em 2021?",3.2.3.E
+Qual o valor da receita tarifária anual por trem arrecadado em 2021?,3.2.4.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por trem em 2021?",3.2.4.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por trem em 2021?",3.2.4.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por trem em 2021?",3.2.4.D
+"Se houver receita extratarifária, qual o valor arrecadado com outras fontes de recursos no sistema por trem em 2021?",3.2.4.E
+Qual o valor da receita tarifária anual por barco arrecadado em 2021?,3.2.5.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por barco em 2021?",3.2.5.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por barco em 2021?",3.2.5.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por barco em 2021?",3.2.5.D
+"Se houver receita extratarifária, qual o valor arrecadado com outras fontes de recursos no sistema por barco em 2021?",3.2.5.E
+Qual o valor da receita tarifária anual por VLT arrecado em 2021?,3.2.6.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por VLT em 2021?",3.2.6.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por VLT em 2021?",3.2.6.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por VLT em 2021?",3.2.6.D
+"Se houver receita extratarifária, qual o valor arrecadado com outras fontes de recursos no sistema por VLT em 2021?",3.2.6.E
+Qual o valor da receita tarifária anual por monotrilho arrecadado em 2021?,3.2.7.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por monotrilho em 2021?",3.2.7.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por monotrilho em 2021?",3.2.7.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por monotrilho em 2021?",3.2.7.D
+"Se houver receita extratarifária, qual o valor arrecadado com outras fontes de recursos no sistema por monotrilho em 2021?",3.2.7.E
+Qual o valor da receita tarifária anual por aeromóvel arrecado em 2021?,3.2.8.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por aeromóvel em 2021?",3.2.8.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por aeromóvel em 2021?",3.2.8.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por aeromóvel em 2021?",3.2.8.D
+"Se houver receita extratarifária, qual o valor arrecadado com outras fontes de recursos no sistema por aeromóvel em 2021?",3.2.8.E
+Quais os impostos incidentes no serviço de transporte por ônibus?,3.3.1.A
+Qual o percentual de ISS incidente no serviço de transporte por ônibus?,3.3.1.B
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por ônibus?,3.3.1.C
+Qual o percentual de PIS incidente no serviço de transporte por ônibus?,3.3.1.D
+Qual o percentual de Cofins incidente no serviço de transporte por ônibus?,3.3.1.E
+Qual o percentual de outros impostos incidentes no serviço de transporte por ônibus?,3.3.1.F
+Quais outros impostos incidem no serviço de transporte por ônibus?,3.3.1.G
+Quais os impostos incidentes no serviço de transporte por vans/microônibus?,3.3.1.H
+Qual o percentual de ISS incidente no serviço de transporte por vans/microônibus?,3.3.1.I
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por vans/microônibus?,3.3.1.J
+Qual o percentual de PIS incidente no serviço de transporte por vans/microônibus?,3.3.1.K
+Qual o percentual de Cofins incidente no serviço de transporte por vans/microônibus?,3.3.1.L
+Qual o percentual de outros impostos incidentes no serviço de transporte por vans/microônibus?,3.3.1.M
+Quais outros impostos incidem no serviço de transporte por vans/microônibus?,3.3.1.N
+Quais os impostos incidentes no serviço de transporte por metrô?,3.3.1.O
+Qual o percentual de ISS incidente no serviço de transporte por metrô?,3.3.1.P
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por metrô?,3.3.1.Q
+Qual o percentual de PIS incidente no serviço de transporte por metrô?,3.3.1.R
+Qual o percentual de Cofins incidente no serviço de transporte por metrô?,3.3.1.S
+Qual o percentual de outros impostos incidentes no serviço de transporte por metrô?,3.3.1.T
+Quais outros impostos incidem no serviço de transporte por metrô?,3.3.1.U
+Quais os impostos incidentes no serviço de transporte por trem?,3.3.1.V
+Qual o percentual de ISS incidente no serviço de transporte por trem?,3.3.1.W
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por trem?,3.3.1.X
+Qual o percentual de PIS incidente no serviço de transporte por trem?,3.3.1.Y
+Qual o percentual de Cofins incidente no serviço de transporte por trem?,3.3.1.Z
+Qual o percentual de outros impostos incidentes no serviço de transporte por trem?,3.3.1.AA
+Quais outros impostos incidem no serviço de transporte por trem?,3.3.1.AB
+Quais os impostos incidentes no serviço de transporte por barco?,3.3.1.AC
+Qual o percentual de ISS incidente no serviço de transporte por barco?,3.3.1.AD
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por barco?,3.3.1.AE
+Qual o percentual de PIS incidente no serviço de transporte por barco?,3.3.1.AF
+Qual o percentual de Cofins incidente no serviço de transporte por barco?,3.3.1.AG
+Qual o percentual de outros impostos incidentes no serviço de transporte por barco?,3.3.1.AH
+Quais outros impostos incidem no serviço de transporte por barco?,3.3.1.AI
+Quais os impostos incidentes no serviço de transporte por VLT?,3.3.1.AJ
+Qual o percentual de ISS incidente no serviço de transporte por VLT?,3.3.1.AK
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por VLT?,3.3.1.AL
+Qual o percentual de PIS incidente no serviço de transporte por VLT?,3.3.1.AM
+Qual o percentual de Cofins incidente no serviço de transporte por VLT?,3.3.1.AN
+Qual o percentual de outros impostos incidentes no serviço de transporte por VLT?,3.3.1.AO
+Quais outros impostos incidem no serviço de transporte por VLT?,3.3.1.AP
+Quais os impostos incidentes no serviço de transporte por monotrilho?,3.3.1.AQ
+Qual o percentual de ISS incidente no serviço de transporte por monotrilho?,3.3.1.AR
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por monotrilho?,3.3.1.AS
+Qual o percentual de PIS incidente no serviço de transporte por monotrilho?,3.3.1.AT
+Qual o percentual de Cofins incidente no serviço de transporte por monotrilho?,3.3.1.AU
+Qual o percentual de outros impostos incidentes no serviço de transporte por monotrilho?,3.3.1.AV
+Quais outros impostos incidem no serviço de transporte por monotrilho?,3.3.1.AW
+Quais os impostos incidentes no serviço de transporte por aeromóvel?,3.3.1.AX
+Qual o percentual de ISS incidente no serviço de transporte por aeromóvel?,3.3.1.AY
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por aeromóvel?,3.3.1.AZ
+Qual o percentual de PIS incidente no serviço de transporte por aeromóvel?,3.3.1.BA
+Qual o percentual de Cofins incidente no serviço de transporte por aeromóvel?,3.3.1.BC
+Qual o percentual de outros impostos incidentes no serviço de transporte por aeromóvel?,3.3.1.BD
+Quais outros impostos incidem no serviço de transporte por aeromóvel?,3.3.1.BE
+Qual o número de passageiros comuns transportados no serviço de transporte por ônibus em 2021?,3.4.1.A
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por ônibus em 2021?,3.4.1.B
+Qual o número de estudantes transportados no serviço de transporte por ônibus em 2021?,3.4.1.C
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por ônibus em 2021?,3.4.1.D
+Qual o número de gratuidades no serviço de transporte por ônibus em 2021?,3.4.1.E
+Qual o número de passageiros equivalentes transportados no serviço de transporte por ônibus em 2021?,3.4.1.F
+Qual o número de passageiros comuns transportados no serviço de transporte por vans/microônibus em 2021?,3.4.1.G
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por vans/microônibus em 2021?,3.4.1.H
+Qual o número de estudantes transportados no serviço de transporte por vans/microônibus em 2021?,3.4.1.I
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por vans/microônibus em 2021?,3.4.1.J
+Qual o número de gratuidades no serviço de transporte por vans/microônibus em 2021?,3.4.1.K
+Qual o número de passageiros equivalentes transportados no serviço de transporte por vans/microônibus em 2021?,3.4.1.L
+Qual o número de passageiros comuns transportados no serviço de transporte por metrô em 2021?,3.4.1.M
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por metrô em 2021?,3.4.1.N
+Qual o número de estudantes transportados no serviço de transporte por metrô em 2021?,3.4.1.O
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por metrô em 2021?,3.4.1.P
+Qual o número de gratuidades no serviço de transporte por metrô em 2021?,3.4.1.Q
+Qual o número de passageiros equivalentes transportados no serviço de transporte por metrô em 2021?,3.4.1.R
+Qual o número de passageiros comuns transportados no serviço de transporte por trem em 2021?,3.4.1.S
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por trem em 2021?,3.4.1.T
+Qual o número de estudantes transportados no serviço de transporte por trem em 2021?,3.4.1.U
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por trem em 2021?,3.4.1.V
+Qual o número de gratuidades no serviço de transporte por trem em 2021?,3.4.1.W
+Qual o número de passageiros equivalentes transportados no serviço de transporte por trem em 2021?,3.4.1.X
+Qual o número de passageiros comuns transportados no serviço de transporte por barco em 2021?,3.4.1.Y
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por barco em 2021?,3.4.1.Z
+Qual o número de estudantes transportados no serviço de transporte por barco em 2021?,3.4.1.AA
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por barco em 2021?,3.4.1.AB
+Qual o número de gratuidades no serviço de transporte por barco em 2021?,3.4.1.AC
+Qual o número de passageiros equivalentes transportados no serviço de transporte por barco em 2021?,3.4.1.AD
+Qual o número de passageiros comuns transportados no serviço de transporte por VLT em 2021?,3.4.1.AE
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por VLT em 2021?,3.4.1.AF
+Qual o número de estudantes transportados no serviço de transporte por VLT em 2021?,3.4.1.AG
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por VLT em 2021?,3.4.1.AH
+Qual o número de gratuidades no serviço de transporte por VLT em 2021?,3.4.1.AI
+Qual o número de passageiros equivalentes transportados no serviço de transporte por VLT em 2021?,3.4.1.AJ
+Qual o número de passageiros comuns transportados no serviço de transporte por monotrilho em 2021?,3.4.1.AK
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por monotrilho em 2021?,3.4.1.AL
+Qual o número de estudantes transportados no serviço de transporte por monotrilho em 2021?,3.4.1.AM
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por monotrilho em 2021?,3.4.1.AN
+Qual o número de gratuidades no serviço de transporte por monotrilho em 2021?,3.4.1.AO
+Qual o número de passageiros equivalentes transportados no serviço de transporte por monotrilho em 2021?,3.4.1.AP
+Qual o número de passageiros comuns transportados no serviço de transporte por aeromóvel em 2021?,3.4.1.AQ
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por aeromóvel em 2021?,3.4.1.AR
+Qual o número de estudantes transportados no serviço de transporte por aeromóvel em 2021?,3.4.1.AS
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por aeromóvel em 2021?,3.4.1.AT
+Qual o número de gratuidades no serviço de transporte por aeromóvel em 2021?,3.4.1.AU
+Qual o número de passageiros equivalentes transportados no serviço de transporte por aeromóvel em 2021?,3.4.1.AV
+Quais categorias de passageiros recebem desconto no valor da tarifa do serviço de transporte público no município?,3.5.1
+Qual o percentual de desconto sobre a valor da tarifa pago pelos passageiros de baixa renda?,3.5.1.A
+Qual a renda máxima das pessoas de baixa renda que recebem desconto na no valor da tarifa? (Em salários mínimos),3.5.1.AA
+Qual o percentual de desconto sobre a valor da tarifa pago pelos passageiros com idade de 60 a 64 anos?,3.5.1.B
+Qual o percentual de desconto sobre a valor da tarifa pago pelos passageiros com deficiência e mobilidade reduzida?,3.5.1.C
+Qual o percentual de desconto sobre a valor da tarifa pago pelos estudantes da rede pública de ensino?,3.5.1.D
+Qual o percentual de desconto sobre a valor da tarifa pago pelos estudantes da rede privada de ensino?,3.5.1.E
+Qual o valor da Bandeirada do transporte público individual (táxi) no município?,3.6.1.A
+"Qual o valor da Bandeirada 1 do serviço de táxi, por quilômetro rodado, se houver?",3.6.1.B
+"Qual o valor da Bandeirada 2 do serviço de táxi, por quilômetro rodado, se houver?",3.6.1.C
+"Qual o valor do serviço de táxi, por hora parada, se houver?",3.6.1.D
+"Qual o valor da tarifa aeroporto do serviço de táxi, se houver?",3.6.1.E
+"Qual o valor da Bandeirada do serviço de mototáxi no município, se houver?",3.6.1.F
+"Qual o valor da Bandeirada 1 do serviço de mototáxi, por quilômetro rodado, se houver?",3.6.1.G
+"Qual o valor da Bandeirada 2 do serviço de mototáxi, por quilômetro rodado, se houver?",3.6.1.H
+"Qual o valor do serviço de mototáxi, por hora parada, se houver?",3.6.1.I
+"Qual o valor da tarifa aeroporto do serviço de mototáxi, se houver?",3.6.1.J
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de ônibus no município?,3.7.1
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por ônibus?,3.7.1.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por ônibus?,3.7.1.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por ônibus?,3.7.1.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por ônibus?,3.7.1.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por ônibus?,3.7.1.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por ônibus?",3.7.1.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por ônibus?,3.7.1.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por ônibus?,3.7.1.H
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por ônibus?,3.7.1.I
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de vans/microônibus no município?,3.7.2
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por vans/microônibus?,3.7.2.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por vans/microônibus?,3.7.2.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por vans/microônibus?,3.7.2.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por vans/microônibus?,3.7.2.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por microônibus?,3.7.2.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por van/microônibus?",3.7.2.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por vans/microônibus?,3.7.2.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por vans/microônibus?,3.7.2.H
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por vans/microônibus?,3.7.2.I
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de metrô no município?,3.7.3
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por metrô?",3.7.3.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por metrô?,3.7.3.K
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de trem no município?,3.7.4
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por trem?",3.7.4.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por trem?,3.7.4.K
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de barco no município?,3.7.5
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por barco?,3.7.5.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por barco?,3.7.5.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por barco?,3.7.5.C
+Depreciação de equipamentos diz respeito a qual percentual da planilha de custos do serviço por barco?,3.7.5.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por barco?,3.7.5.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por barco?",3.7.5.F
+Impostos dizem respeito a qual percentual da planilha de custos do serviço por barco?,3.7.5.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por barco?,3.7.5.H
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por barco?,3.7.5.I
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de VLT no município?,3.7.6
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por VLT?",3.7.6.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por VLT?,3.7.6.K
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de monotrilho no município?,3.7.7
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?",3.7.7.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.7.7.K
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de aeromóvel no município?,3.7.8
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?",3.7.8.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.7.8.K
+O município possui Plano Diretor?,4.1.1
+Qual o ano de elaboração ou última atualização do Plano Diretor?,4.1.1.A
+O município possui Lei de Zoneamento ou Uso e Ocupação do Solo?,4.1.2
+O município está contemplado em algum Plano de Mobilidade Urbana de Região Metropolitana ou Aglomeração Urbana?,4.3.1
+O Plano de Mobilidade Urbana diz respeito a qual Região Metropolitana ou Aglomeração Urbana?,4.3.1.A
+Em qual website é possível obter o Plano de Mobilidade Urbana de Região Metropolitana ou Aglomeração Urbana em formato digital?,4.3.1.B
+O município está contemplado em algum Plano de Desenvolvimento Urbano Integrado (PDUI) (Lei Federal nº 13.089/2015 - Estatuto da Metrópole)?,4.3.2
+O PDUI diz respeito a qual Região Metropolitana ou Aglomeração Urbana?,4.3.2.A
+Em qual website é possível obter o Plano de Desenvolvimento Urbano Integrado (PDUI) em formato digital?,4.3.2.B
+O município possui Plano de Mobilidade Urbana?,4.4.1
+Qual o ano de elaboração ou última atualização do Plano de Mobilidade Urbana?,4.4.2
+Qual o instrumento normativo que aprovou o Plano de Mobilidade Urbana?,4.4.3
+Qual o número da Lei ou instrumento normativo que aprovou o plano?,4.4.3.A
+Em qual website é possível obter o Plano de Mobilidade Urbana em formato digital?,4.4.3.B
+Quais metodologias de participação social foram utilizadas durante a elaboração do Plano de Mobilidade Urbana?,4.5.1
+Quais itens a seguir foram considerados na metodologia de elaboração do Plano de Mobilidade Urbana?,4.5.2
+Quais temas a seguir estão contemplados no Plano de Mobilidade Urbana?,4.6.1
+O município já realizou pesquisa Origem-Destino (O/D)?,4.7.1
+Qual o ano de realização da última pesquisa O/D?,4.7.1.A
+Qual a periodicidade de realização da pesquisa?,4.7.1.B
+Em qual website é possível obter a Pesquisa Origem-Destino em formato digital?,4.7.1.C
+"Considerando todos os modos de transporte e as pesquisa O/D realizadas, qual o número médio de viagens diárias no município?",4.7.1.D
+"Considerando todos os modos de transporte e as pesquisas O/D realizadas, qual a distância média das viagens no município? (Em km)",4.7.1.E
+"Considerando todos os modos de transportes e as pesquisas O/D realizadas, qual o tempo médio das viagens realizadas no município? (Em minutos)",4.7.1.F
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas a pé? (Em %)",4.7.1.G
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas de bicicleta? (Em %)",4.7.1.H
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por transporte coletivo? (Em %)",4.7.1.I
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por transporte individual motorizado (automóvel)? (Em %)",4.7.1.J
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por transporte individual motorizado (moto)? (Em %)",4.7.1.K
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por transporte individual remunerado (táxi, aplicativos)? (Em %)",4.7.1.L
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por outros modos de transporte? (Em %)",4.7.1.M
+"Quais ações, medidas, programas ou instrumentos destinados à promoção de acessibilidade o município possui?",4.8.1
+A questão da acessibilidade é abordada em quais leis municipais?,4.8.2
+Em seu município existe a cobrança de tributos sobre modos e serviços de transporte urbano pela utilização da infraestrutura em perímetro urbano (taxação de congestionamento)?,5.1.1
+Qual a arrecadação anual no ano de 2021 do município com a cobrança de tributos pela utilização da infraestrutura em perímetro urbano (taxação de congestionamento)?,5.1.1.A
+Qual o número de vagas de estacionamento regulamentados existentes no município?,5.2.1
+Qual o percentual de vagas de estacionamento reservadas para pessoas com deficiência e mobilidade reduzida? (Em %),5.2.1.A
+Qual o percentual de vagas de estacionamento reservadas para idosos? (Em %),5.2.1B
+Qual o percentual de vagas de estacionamento reservadas para gestantes? (Em %),5.2.1.C
+"Existe controle ou cobrança para estacionamento em vagas públicas, como por exemplo, Área Azul?",5.2.2
+Qual o valor arrecadado com a cobrança de estacionamento no ano de 2021?,5.2.2.A
+Marque os instrumentos de gestão presentes em seu município:,5.3.1
+"Na composição da frota de transporte público coletivo, existem ônibus que utilizam tecnologia veicular ou fontes de energia alternativa?",7.1.1
+Qual o percentual da frota que utiliza etanol como fonte de energia?,7.1.1A
+Qual o percentual da frota que utiliza eletricidade como fonte de energia?,7.1.1.B
+Qual o percentual da frota que utiliza gás natural como fonte de energia?,7.1.1.C
+Qual o percentual da frota que utiliza hidrogênio como fonte de energia?,7.1.1.D
+Qual o percentual da frota que utiliza biodiesel como fonte de energia?,7.1.1.E
+Qual o percentual da frota que utiliza energia híbrida (eletricidade + diesel)?,7.1.1.F
+"Na composição da frota de táxi, existem veículos que utilizam combustíveis menos poluentes ou fontes de energia alternativa?",7.2.1.
+Qual o percentual da frota de táxi que utiliza etanol como fonte de energia?,7.2.1.A
+Qual o percentual da frota de táxi que utiliza eletricidade como fonte de energia?,7.2.1.B
+Qual o percentual da frota de táxi que utiliza gás natural como fonte de energia?,7.2.1.C
+Qual o percentual da frota de táxi que utiliza energia híbrida (eletricidade + gasolina)?,7.2.1.D
+Em qual tipo de veículo é realizada inspeção veicular ambiental no município?,7.3.1
+O município possui conselho municipal de transporte e/ou mobilidade urbana?,8.1.1
+A mobilidade urbana é discutida no Conselho da Cidade ou outro órgão colegiado similar com representação da sociedade civil?,8.1.2
+Qual o caráter do conselho que trata sobre mobilidade urbana no município?,8.2.1
+Qual o percentual de membros do Poder Executivo na composição do Conselho de mobilidade urbana ou similar? (Em %),8.2.2.A
+Qual o percentual de membro do Poder Legislativo na composição do Conselho de mobilidade urbana ou similar? (Em %),8.2.2.B
+Qual o percentual de membros da Sociedade Civil na composição do Conselho de mobilidade urbana ou similar? (Em %),8.2.2.C
+Qual o percentual de membros dos operados dos serviços na composição do Conselho de mobilidade urbana ou similar? (Em %),8.2.2.D
+Qual o percentual de outros membros na composição dos Conselho de mobilidade urbana ou similar? (Em %),8.2.2.E
+Qual o mês e ano da última reunião do Conselho de mobilidade urbana ou similar?,8.2.3
+O município possui ouvidoria ou estrutura similar para recebimento de reclamações e sugestões na instituição responsável pela gestão da mobilidade urbana?,8.3.1
+Qual o tipo de consulta popular com relação ao planejamento da mobilidade e definição de projetos prioritários houve no município no último ano?,8.4.1
+Marque as medidas de moderação de tráfego presentes em seu município:,9.1.1
+Qual o número de agentes de trânsito em exercício no município em 2021?,9.1.2
+Qual o número de equipamentos de fiscalização de velocidade existentes?,9.1.3
+Qual foi a arrecadação anual em 2021 com multas de trânsito?,9.1.4
+O órgão responsável pela gestão do sistema de mobilidade urbana na prefeitura caracteriza-se como:,10.1.1
+De que modo o serviço de transporte público coletivo regulamentado no município é ofertado?,11.1.1
+Quais as modalidades de delegação de serviço de transporte público coletivo existe no município?,11.1.2
+O serviço de transporte público coletivo regulamentado é licitado?,11.2.1
+Qual o prazo do contrato? (Em anos),11.2.1.A
+Qual é a data de vencimento do contrato?,11.2.2.B
+"Para a remuneração do operador do sistema de transporte público coletivo, quais aspectos são levados em conta?",11.3.1
+Existe transporte não regulamentado no município?,11.4.1
+Quais tipos de veículos realizam o transporte não regulamentado?,11.4.1.A
+"O município possui regulamentação para o transporte remunerado privado individual de passageiros (Uber, 99, entre outros)?",11.5.1
+Qual o número de viagens realizadas em 2021 por transporte remunerado privado individual de passageiros no município (considerando todos os aplicativos)?,11.5.1.A
+Qual a quilometragem percorrida em 2021 por transporte remunerado privado individual de passageiros no município (considerando todos os aplicativos)? (Em km),11.5.1.B
+Qual foi a arrecadação em 2021 por transporte remunerado privado individual de passageiros no município? (Em R$),11.5.1.C
+O município faz uso de algum instrumento urbanístico previsto no Estatuto da Cidade (Lei Federal nº 10.257/2001) para viabilizar investimentos em mobilidade urbana?,12.1.2
+O município possui fundo municipal específico de transporte e/ou mobilidade urbana?,12.2.1
+Quais as inovações tecnológicas presentes na mobilidade urbana do município?,13.1.1
+Quais outras inovações tecnológicas na mobilidade urbana estão presentes no município?,13.1.1.A

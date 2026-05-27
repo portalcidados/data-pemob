@@ -1,0 +1,395 @@
+categoria,subcategoria,label
+Infraestrutura,Ônibus,Número de Rodoviárias
+Infraestrutura,Ônibus,"Número de Rodoviárias (acessibilidade, def. física)"
+Infraestrutura,Ônibus,"Número de Rodoviárias (acessibilidade, def. visual)"
+Infraestrutura,Ônibus,Número de Rodoviárias com Integração
+Infraestrutura,Metrô/Trem,Número de Metroviárias
+Infraestrutura,Metrô/Trem,"Número de Metroviárias (acessibilidade, def. física)"
+Infraestrutura,Metrô/Trem,"Número de Metroviárias (acessibilidade, def. visual)"
+Infraestrutura,Metrô/Trem,Número de Metroviárias com Intregração
+Infraestrutura,Ônibus,Pontos de Embarque/Desembarque (Total)
+Infraestrutura,Ônibus,Pontos de Embarque com abrigo
+Infraestrutura,Ônibus,Pontos de Embarque (em nível)
+Infraestrutura,Ônibus,Pontos de Embarque Georreferenciados
+Frota,Ônibus,Frota de ônibus
+Frota,Ônibus,Ônibus (capacidade média)
+Frota,Ônibus,Ônibus (piso baixo)
+Frota,Ônibus,Ônibus (com plataforma)
+Frota,Ônibus,Frota de Ônibus Articulados
+Frota,Ônibus,Ônibus Articulados (capacidade média)
+Frota,Ônibus,Ônibus Articulados (piso baixo)
+Frota,Ônibus,Ônibus Articulados (com plataforma)
+Frota,Ônibus,Frota de Ônibus Biarticulados
+Frota,Ônibus,Ônibus Biarticulados (cap. média)
+Frota,Ônibus,Ônibus Biarticulados (piso baixo)
+Frota,Ônibus,Ônibus Biarticulados (com plataforma)
+Frota,Vans/Microônibus,Frota de Microônibus
+Frota,Vans/Microônibus,Microônibus (capacidade média)
+Frota,Táxi,Frota de Táxis
+Frota,Mototáxi,Frota de Mototáxis
+Frota,Metrô,Frota (composição) de Metrôs
+Frota,Metrô,Metrô (capacidade média)
+Frota,Trem,Frota de Trens
+Frota,Trem,Trem (capacidade média)
+Frota,Barco,Frota de Barcos
+Frota,Barco,Barcos (capacidade média)
+Frota,VLT,Frota (composição) de VLTs
+Frota,VLT,VLT (capacidade média)
+Frota,Monotrilho,Frota (composição) de Monotrilhos
+Frota,Monotrilho,Monotrilho (capacidade média)
+Frota,Aeromóvel,Frota (composição) de Aeromóvel
+Frota,Aeromóvel,Aeromóvel (capacidade média)
+Frota,Bicicleta,Frota de Bicicletas Compartilhadas
+Frota,Ônibus,Frota de Veículos Fretados para Passageiros
+Frota,Ônibus,Frota de Veículos Escolares
+Infraestrutura,Pedestres,Extensão de Vias Exclusivas para Pedestres
+Infraestrutura,Pedestres,Extensão de Vias Exclusivas Temporárias para Pedestres
+Infraestrutura,Pedestres,Extensão de Calçadas para Pedestres
+Frota,Ônibus,Extensão de Vias Exclusivas para BRT
+Frota,Ônibus,Extensão de Corredores Exclusivos de Ônibus
+Frota,Ônibus,Extensão de Faixas Exclusivas
+Frota,Bicicleta,Extensão de Ciclovias Exclusivas
+Frota,Bicicleta,Extensão de Ciclofaixas Exclusivas
+Infraestrutura,Metrô,Extensão da malha (metrô)
+Infraestrutura,Trem,Extensão da malha (trem)
+Infraestrutura,VLT,Extensão da malha (VLT)
+Infraestrutura,Monotrilho,Extensão da malha (monotrilho)
+Infraestrutura,Aeromóvel,Extensão da malha (aeromóvel)
+Frota,Ônibus,Quilômetros Percorridos (Ônibus)
+Frota,Vans/Microônibus,Quilômetros Percorridos (Microônibus)
+Frota,Metrô,Quilômetros Percorridos (Metrô)
+Frota,Trem,Quilômetros Percorridos (Trem)
+Frota,Barco,Quilômetros Percorridos (Barco)
+Frota,VLT,Quilômetros Percorridos (VLT)
+Frota,Monotrilho,Quilômetros Percorridos (Monotrilho)
+Frota,Aeromóvel,Quilômetros Percorridos (Aeromóvel)
+Infraestrutura,Ônibus,Velocidade Média do BRT em faixas prioritárias (pico)
+Infraestrutura,Ônibus,Velocidade Média do Ônibus nos Corredores (pico)
+Infraestrutura,Ônibus,Velocidade Média do Ônibus nas Faixas Exclusivas (pico)
+Infraestrutura,Metrô,Velocidade Média do Metrô (pico)
+Infraestrutura,Trem,Velocidade Média do Trem (pico)
+Infraestrutura,VLT,Velocidade Média do VLT (pico)
+Infraestrutura,Monotrilho,Velocidade Média do Monotrilho (pico)
+Infraestrutura,Aeromóvel,Velocidade Média do Aeromóvel (pico)
+Infraestrutura,Ônibus,Velocidade Média do Transporte Público em Vias Mistas
+Infraestrutura,Táxi,Táxi no Corredor de Ônibus
+Frota,Ônibus,Idade Média da Frota de Ônibus
+Frota,Vans/Microônibus,Idade Média da Frota de Microônibus
+Frota,Metrô,Idade Média da Frota de Metrô
+Frota,Trem,Idade Média da Frota de Trens
+Frota,VLT,Idade Média da Frota de VLTs
+Frota,Monotrilho,Idade Média da Frota de Monotrilho
+Frota,Aeromóvel,Idade Média da Frota de Aeromóvel
+Frota,Táxi,Idade Média da Frota de Táxis
+Infraestrutura,Ônibus,Terminais Rodoviários com Itinerários
+Infraestrutura,Ônibus,Terminais Rodoviários com Informações sobre Horários
+Infraestrutura,Ônibus,Terminais Rodoviários com Informações sobre Tarifas
+Infraestrutura,Ônibus,Terminais Rodoviários com Informações sobre Integrações
+Infraestrutura,Metrô/Trem,Estações Metroviárias com Itinerários
+Infraestrutura,Metrô/Trem,Estações Metroviárias com Informações sobre Horários
+Infraestrutura,Metrô/Trem,Estações Metroviárias com Informações sobre Tarifas
+Infraestrutura,Metrô/Trem,Estações Metroviárias com Informações sobre Integrações
+Infraestrutura,Ônibus,Pontos de Embarque com Itinerários
+Infraestrutura,Ônibus,Pontos de Embarque com Informações sobre Horários
+Infraestrutura,Ônibus,Pontos de Embarque com Informações sobre Tarifas
+Infraestrutura,Ônibus,Pontos de Embarque com Informações sobre Integrações
+Outros,Governança e Leis,Existe Pesquisa de Satisfação de Usuário
+Infraestrutura,Ônibus,Existe informação sobre pontualidade e regularidade (Ônibus)
+Infraestrutura,Vans/Microônibus,Existe informação sobre pontualidade e regularidade (Microônibus)
+Infraestrutura,Metrô,Existe informação sobre pontualidade e regularidade (Metrô)
+Infraestrutura,Trem,Existe informação sobre pontualidade e regularidade (Trem)
+Infraestrutura,Barco,Existe informação sobre pontualidade e regularidade (Barco)
+Infraestrutura,VLT,Existe informação sobre pontualidade e regularidade (VLT)
+Infraestrutura,Monotrilho,Existe informação sobre pontualidade e regularidade (Monotrilho)
+Infraestrutura,Aeromóvel,Existe informação sobre pontualidade e regularidade (Aeromóvel)
+Infraestrutura,Ônibus,Viagens de Ônibus Realizadas no Horário Programado (%)
+Infraestrutura,Vans/Microônibus,Viagens de Microônibus Realizadas no Horário Programado (%)
+Infraestrutura,Metrô,Viagens de Metrô Realizadas no Horário Programado (%)
+Infraestrutura,Trem,Viagens de Trem Realizadas no Horário Programado (%)
+Infraestrutura,Barco,Viagens de Barco Realizadas no Horário Programado (%)
+Infraestrutura,VLT,Viagens de VLT Realizadas no Horário Programado (%)
+Infraestrutura,Monotrilho,Viagens de Monotrilho Realizadas no Horário Programado (%)
+Infraestrutura,Aeromóvel,Viagens de Aeromóvel Realizadas no Horário Programado (%)
+Infraestrutura,Ônibus,Viagens de Ônibus Incompletas (%)
+Infraestrutura,Vans/Microônibus,Viagens de Ônibus Incompletas Microônibus(%)
+Infraestrutura,Metrô,Viagens de Metrô Incompletas (%)
+Infraestrutura,Trem,Viagens de Trem Incompletas (%)
+Infraestrutura,Barco,Viagens de Barco Incompletas (%)
+Infraestrutura,VLT,Viagens de VLT Incompletas (%)
+Infraestrutura,Monotrilho,Viagens de Monotrilho Incompletas (%)
+Infraestrutura,Aeromóvel,Viagens de Aeromóvel Incompletas (%)
+Tarifa,Valores,Valor da Tarifa
+Tarifa,Valores,Valor Anterior da Tarifa
+Receita,Ônibus,Receita Tarifária (Ônibus)
+Receita,Ônibus,Subsídios a Passageiros (Ônibus)
+Receita,Ônibus,Subsídios ao Sistema (Ônibus)
+Receita,Ônibus,Receita Extratarifária com Publicidade (Ônibus)
+Receita,Ônibus,Receita Extratarifária de Outras Fontes (Ônibus)
+Receita,Vans/Microônibus,Receita Tarifária (Vans/Microônibus)
+Receita,Vans/Microônibus,Subsídios a Passageiros (Vans/Microônibus)
+Receita,Vans/Microônibus,Subsídios ao Sistema (Vans/Microônibus)
+Receita,Vans/Microônibus,Receita Extratarifária com Publicidade (Vans/Microônibus)
+Receita,Vans/Microônibus,Receita Extratarifária de Outras Fontes (Vans/Microônibus)
+Receita,Metrô,Receita Tarifária (Metrô)
+Receita,Metrô,Subsídios a Passageiros (Metrô)
+Receita,Metrô,Subsídios ao Sistema (Metrô)
+Receita,Metrô,Receita Extratarifária com Publicidade (Metrô)
+Receita,Metrô,Receita Extratarifária de Outras Fontes (Metrô)
+Receita,Trem,Receita Tarifária (Trem)
+Receita,Trem,Subsídios a Passageiros (Trem)
+Receita,Trem,Subsídios ao Sistema (Trem)
+Receita,Trem,Receita Extratarifária com Publicidade (Trem)
+Receita,Trem,Receita Extratarifária de Outras Fontes (Trem)
+Receita,Barco,Receita Tarifária (Barco)
+Receita,Barco,Subsídios a Passageiros (Barco)
+Receita,Barco,Subsídios ao Sistema (Barco)
+Receita,Barco,Receita Extratarifária com Publicidade (Barco)
+Receita,Barco,Receita Extratarifária de Outras Fontes (Barco)
+Receita,VLT,Receita Tarifária (VLT)
+Receita,VLT,Subsídios a Passageiros (VLT)
+Receita,VLT,Subsídios ao Sistema (VLT)
+Receita,VLT,Receita Extratarifária com Publicidade (VLT)
+Receita,VLT,Receita Extratarifária de Outras Fontes (VLT)
+Receita,Monotrilho,Receita Tarifária (Monotrilho)
+Receita,Monotrilho,Subsídios a Passageiros (Monotrilho)
+Receita,Monotrilho,Subsídios ao Sistema (Monotrilho)
+Receita,Monotrilho,Receita Extratarifária com Publicidade (Monotrilho)
+Receita,Monotrilho,Receita Extratarifária de Outras Fontes (Monotrilho)
+Receita,Aeromóvel,Receita Tarifária (Aeromóvel)
+Receita,Aeromóvel,Subsídios a Passageiros (Aeromóvel)
+Receita,Aeromóvel,Subsídios ao Sistema (Aeromóvel)
+Receita,Aeromóvel,Receita Extratarifária com Publicidade (Aeromóvel)
+Receita,Aeromóvel,Receita Extratarifária de Outras Fontes (Aeromóvel)
+Custos,Ônibus,Impostos e taxas - Alíquota ISS (Ônibus)
+Custos,Ônibus,Impostos e Taxas - Taxa de Gerenciamento (Ônibus)
+Custos,Ônibus,Impostos e Taxas - PIS (Ônibus)
+Custos,Ônibus,Impostos e Taxas - Cofins (Ônibus)
+Custos,Ônibus,Impostos e Taxas - Alíquota Outros Impostos (Ônibus)
+Custos,Ônibus,Impostos e Taxas - Outros Impostos (Ônibus)
+Custos,Vans/Microônibus,Impostos e taxas - Alíquota ISS (Vans/Microônibus)
+Custos,Vans/Microônibus,Impostos e Taxas - Taxa de Gerenciamento (Vans/Microônibus)
+Custos,Vans/Microônibus,Impostos e Taxas - PIS (Vans/Microônibus)
+Custos,Vans/Microônibus,Impostos e Taxas - Cofins (Vans/Microônibus)
+Custos,Vans/Microônibus,Impostos e Taxas - Alíquota Outros Impostos (Vans/Microônibus)
+Custos,Vans/Microônibus,Impostos e Taxas - Outros Impostos (Vans/Microônibus)
+Custos,Metrô,Impostos e taxas - Alíquota ISS (Metrô)
+Custos,Metrô,Impostos e Taxas - Taxa de Gerenciamento (Metrô)
+Custos,Metrô,Impostos e Taxas - PIS (Metrô)
+Custos,Metrô,Impostos e Taxas - Cofins (Metrô)
+Custos,Metrô,Impostos e Taxas - Alíquota Outros Impostos (Metrô)
+Custos,Metrô,Impostos e Taxas - Outros Impostos (Metrô)
+Custos,Trem,Impostos e taxas - Alíquota ISS (Trem)
+Custos,Trem,Impostos e Taxas - Taxa de Gerenciamento (Trem)
+Custos,Trem,Impostos e Taxas - PIS (Trem)
+Custos,Trem,Impostos e Taxas - Cofins (Trem)
+Custos,Trem,Impostos e Taxas - Alíquota Outros Impostos (Trem)
+Custos,Trem,Impostos e Taxas - Outros Impostos (Trem)
+Custos,Barco,Impostos e taxas - Alíquota ISS (Barco)
+Custos,Barco,Impostos e Taxas - Taxa de Gerenciamento (Barco)
+Custos,Barco,Impostos e Taxas - PIS (Barco)
+Custos,Barco,Impostos e Taxas - Cofins (Barco)
+Custos,Barco,Impostos e Taxas - Alíquota Outros Impostos (Barco)
+Custos,Barco,Impostos e Taxas - Outros Impostos (Barco)
+Custos,VLT,Impostos e taxas - Alíquota ISS (VLT)
+Custos,VLT,Impostos e Taxas - Taxa de Gerenciamento (VLT)
+Custos,VLT,Impostos e Taxas - PIS (VLT)
+Custos,VLT,Impostos e Taxas - Cofins (VLT)
+Custos,VLT,Impostos e Taxas - Alíquota Outros Impostos (VLT)
+Custos,VLT,Impostos e Taxas - Outros Impostos (VLT)
+Custos,Monotrilho,Impostos e taxas - Alíquota ISS (Monotrilho)
+Custos,Monotrilho,Impostos e Taxas - Taxa de Gerenciamento (Monotrilho)
+Custos,Monotrilho,Impostos e Taxas - PIS (Monotrilho)
+Custos,Monotrilho,Impostos e Taxas - Cofins (Monotrilho)
+Custos,Monotrilho,Impostos e Taxas - Alíquota Outros Impostos (Monotrilho)
+Custos,Monotrilho,Impostos e Taxas - Outros Impostos (Monotrilho)
+Custos,Aeromóvel,Impostos e taxas - Alíquota ISS (Aeromóvel)
+Custos,Aeromóvel,Impostos e Taxas - Taxa de Gerenciamento (Aeromóvel)
+Custos,Aeromóvel,Impostos e Taxas - PIS (Aeromóvel)
+Custos,Aeromóvel,Impostos e Taxas - Cofins (Aeromóvel)
+Custos,Aeromóvel,Impostos e Taxas - Alíquota Outros Impostos (Aeromóvel)
+Custos,Aeromóvel,Impostos e Taxas - Outros Impostos (Aeromóvel)
+Demanda,Ônibus,Passageiros de Ônibus (Comum)
+Demanda,Ônibus,Passageiros de Ônibus (Vale Transporte)
+Demanda,Ônibus,Passageiros de Ônibus (Estudante)
+Demanda,Ônibus,Passageiros de Ônibus (Integração)
+Demanda,Ônibus,Passageiros de Ônibus (Gratuidade)
+Demanda,Ônibus,Passageiros de Ônibus (Equivalentes)
+Demanda,Vans/Microônibus,Passageiros de Vans/Microônibus (Comum)
+Demanda,Vans/Microônibus,Passageiros de Vans/Microônibus (Vale Transporte)
+Demanda,Vans/Microônibus,Passageiros de Vans/Microônibus (Estudante)
+Demanda,Vans/Microônibus,Passageiros de Vans/Microônibus (Integração)
+Demanda,Vans/Microônibus,Passageiros de Vans/Microônibus (Gratuidade)
+Demanda,Vans/Microônibus,Passageiros de Vans/Microônibus (Equivalentes)
+Demanda,Metrô,Passageiros de Metrô (Comum)
+Demanda,Metrô,Passageiros de Metrô (Vale Transporte)
+Demanda,Metrô,Passageiros de Metrô (Estudante)
+Demanda,Metrô,Passageiros de Metrô (Integração)
+Demanda,Metrô,Passageiros de Metrô (Gratuidade)
+Demanda,Metrô,Passageiros de Metrô (Equivalentes)
+Demanda,Trem,Passageiros de Trem (Comum)
+Demanda,Trem,Passageiros de Trem (Vale Transporte)
+Demanda,Trem,Passageiros de Trem (Estudante)
+Demanda,Trem,Passageiros de Trem (Integração)
+Demanda,Trem,Passageiros de Trem (Gratuidade)
+Demanda,Trem,Passageiros de Trem (Equivalentes)
+Demanda,Barco,Passageiros de Barco (Comum)
+Demanda,Barco,Passageiros de Barco (Vale Transporte)
+Demanda,Barco,Passageiros de Barco (Estudante)
+Demanda,Barco,Passageiros de Barco (Integração)
+Demanda,Barco,Passageiros de Barco (Gratuidade)
+Demanda,Barco,Passageiros de Barco (Equivalentes)
+Demanda,VLT,Passageiros de VLT (Comum)
+Demanda,VLT,Passageiros de VLT (Vale Transporte)
+Demanda,VLT,Passageiros de VLT (Estudante)
+Demanda,VLT,Passageiros de VLT (Integração)
+Demanda,VLT,Passageiros de VLT (Gratuidade)
+Demanda,VLT,Passageiros de VLT (Equivalentes)
+Demanda,Monotrilho,Passageiros de Monotrilho (Comum)
+Demanda,Monotrilho,Passageiros de Monotrilho (Vale Transporte)
+Demanda,Monotrilho,Passageiros de Monotrilho (Estudante)
+Demanda,Monotrilho,Passageiros de Monotrilho (Integração)
+Demanda,Monotrilho,Passageiros de Monotrilho (Gratuidade)
+Demanda,Monotrilho,Passageiros de Monotrilho (Equivalentes)
+Demanda,Aeromóvel,Passageiros de Aeromóvel (Comum)
+Demanda,Aeromóvel,Passageiros de Aeromóvel (Vale Transporte)
+Demanda,Aeromóvel,Passageiros de Aeromóvel (Estudante)
+Demanda,Aeromóvel,Passageiros de Aeromóvel (Integração)
+Demanda,Aeromóvel,Passageiros de Aeromóvel (Gratuidade)
+Demanda,Aeromóvel,Passageiros de Aeromóvel (Equivalentes)
+Tarifa,Subsídios,Baixa Renda - Percentual de Desconto
+Tarifa,Subsídios,Idosos - Tarifa Paga
+Tarifa,Subsídios,Deficientes - Tarifa Paga
+Tarifa,Subsídios,Estudantes de Rede Pública - Percentual de Desconto
+Tarifa,Subsídios,Estudantes de Rede Privada - Percentual de Desconto
+Tarifa,Táxi,Táxi - Valor da Bandeirada
+Tarifa,Táxi,Táxi - Valor da Bandeirada 1
+Tarifa,Táxi,Táxi - Valor da Bandeirada 2
+Tarifa,Táxi,Táxi - Valor Hora Parada
+Tarifa,Táxi,Táxi - Valor Tarifa Aeroporto
+Tarifa,Mototáxi,Táxi - Valor da Bandeirada
+Tarifa,Mototáxi,Táxi - Valor da Bandeirada 1
+Tarifa,Mototáxi,Táxi - Valor da Bandeirada 2
+Tarifa,Mototáxi,Táxi - Valor Hora Parada
+Tarifa,Mototáxi,Táxi - Valor Tarifa Aeroporto
+Custos,Ônibus,Custos (Ônibus) - Operação (Ônibus)
+Custos,Ônibus,Custos (Ônibus) - Administrativo (Ônibus)
+Custos,Ônibus,Custos (Ônibus) - Combustível (Ônibus)
+Custos,Ônibus,Custos (Ônibus) - Depreciação (Ônibus)
+Custos,Ônibus,Custos (Ônibus) - Remuneração pelo Serviço Prestado (Ônibus)
+Custos,Ônibus,"Custos (Ônibus) - Peças, acessórios e material de rodagem (Ônibus)"
+Custos,Ônibus,Custos (Ônibus) - Impostos e Tributação (Ônibus)
+Custos,Ônibus,Custos (Ônibus) - Despesas Administrativas (Ônibus)
+Custos,Ônibus,Custos (Ônibus) - Outros insumos (Ônibus)
+missing,Ônibus,Outros insumos detalhamento (Ônibus)
+Custos,Vans/Microônibus,Custos (Vans/Microônibus) - Operação (Ônibus)
+Custos,Vans/Microônibus,Custos (Vans/Microônibus) - Administrativo (Ônibus)
+Custos,Vans/Microônibus,Custos (Vans/Microônibus) - Combustível (Ônibus)
+Custos,Vans/Microônibus,Custos (Vans/Microônibus) - Depreciação (Ônibus)
+Custos,Vans/Microônibus,Custos (Vans/Microônibus) - Remuneração pelo Serviço Prestado (Ônibus)
+Custos,Vans/Microônibus,"Custos (Vans/Microônibus) - Peças, acessórios e material de rodagem (Ônibus)"
+Custos,Vans/Microônibus,Custos (Vans/Microônibus) - Impostos e Tributação (Ônibus)
+Custos,Vans/Microônibus,Custos (Vans/Microônibus) - Despesas Administrativas (Ônibus)
+Custos,Vans/Microônibus,Custos (Vans/Microônibus) - Outros insumos (Ônibus)
+Custos,Metrô,Custos (Metrô) - Operação (Ônibus)
+Custos,Metrô,Custos (Metrô) - Administrativo (Ônibus)
+Custos,Metrô,Custos (Metrô) - Combustível (Ônibus)
+Custos,Metrô,Custos (Metrô) - Depreciação (Ônibus)
+Custos,Metrô,Custos (Metrô) - Remuneração pelo Serviço Prestado (Ônibus)
+Custos,Metrô,"Custos (Metrô) - Peças, acessórios e material de rodagem (Ônibus)"
+Custos,Metrô,Custos (Metrô) - Impostos e Tributação (Ônibus)
+Custos,Metrô,Custos (Metrô) - Despesas Administrativas (Ônibus)
+Custos,Metrô,Custos (Metrô) - Energia (Ônibus)
+Custos,Metrô,Custos (Metrô) - IPTU (Ônibus)
+Custos,Metrô,Custos (Metrô) - Outros insumos (Ônibus)
+Custos,Trem,Custos (Trem) - Operação (Ônibus)
+Custos,Trem,Custos (Trem) - Administrativo (Ônibus)
+Custos,Trem,Custos (Trem) - Combustível (Ônibus)
+Custos,Trem,Custos (Trem) - Depreciação (Ônibus)
+Custos,Trem,Custos (Trem) - Remuneração pelo Serviço Prestado (Ônibus)
+Custos,Trem,"Custos (Trem) - Peças, acessórios e material de rodagem (Ônibus)"
+Custos,Trem,Custos (Trem) - Impostos e Tributação (Ônibus)
+Custos,Trem,Custos (Trem) - Despesas Administrativas (Ônibus)
+Custos,Trem,Custos (Trem) - Energia (Ônibus)
+Custos,Trem,Custos (Trem) - IPTU (Ônibus)
+Custos,Trem,Custos (Trem) - Outros insumos (Ônibus)
+Custos,Barco,Custos (Barco) - Operação (Ônibus)
+Custos,Barco,Custos (Barco) - Administrativo (Ônibus)
+Custos,Barco,Custos (Barco) - Combustível (Ônibus)
+Custos,Barco,Custos (Barco) - Depreciação (Ônibus)
+Custos,Barco,Custos (Barco) - Remuneração pelo Serviço Prestado (Ônibus)
+Custos,Barco,"Custos (Barco) - Peças, acessórios e material de rodagem (Ônibus)"
+Custos,Barco,Custos (Barco) - Impostos e Tributação (Ônibus)
+Custos,Barco,Custos (Barco) - Despesas Administrativas (Ônibus)
+Custos,Barco,Custos (Barco) - Outros insumos (Ônibus)
+Custos,VLT,Custos (VLT) - Operação (Ônibus)
+Custos,VLT,Custos (VLT) - Administrativo (Ônibus)
+Custos,VLT,Custos (VLT) - Combustível (Ônibus)
+Custos,VLT,Custos (VLT) - Depreciação (Ônibus)
+Custos,VLT,Custos (VLT) - Remuneração pelo Serviço Prestado (Ônibus)
+Custos,VLT,"Custos (VLT) - Peças, acessórios e material de rodagem (Ônibus)"
+Custos,VLT,Custos (VLT) - Impostos e Tributação (Ônibus)
+Custos,VLT,Custos (VLT) - Despesas Administrativas (Ônibus)
+Custos,VLT,Custos (VLT) - Energia (Ônibus)
+Custos,VLT,Custos (VLT) - IPTU (Ônibus)
+Custos,VLT,Custos (VLT) - Outros insumos (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - Operação (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - Administrativo (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - Combustível (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - Depreciação (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - Remuneração pelo Serviço Prestado (Ônibus)
+Custos,Monotrilho,"Custos (Monotrilho) - Peças, acessórios e material de rodagem (Ônibus)"
+Custos,Monotrilho,Custos (Monotrilho) - Impostos e Tributação (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - Despesas Administrativas (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - Energia (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - IPTU (Ônibus)
+Custos,Monotrilho,Custos (Monotrilho) - Outros insumos (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - Operação (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - Administrativo (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - Combustível (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - Depreciação (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - Remuneração pelo Serviço Prestado (Ônibus)
+Custos,Aeromóvel,"Custos (Aeromóvel) - Peças, acessórios e material de rodagem (Ônibus)"
+Custos,Aeromóvel,Custos (Aeromóvel) - Impostos e Tributação (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - Despesas Administrativas (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - Energia (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - IPTU (Ônibus)
+Custos,Aeromóvel,Custos (Aeromóvel) - Outros insumos (Ônibus)
+Outros,Governança e Leis,Plano Diretor
+Outros,Governança e Leis,Ano Plano Diretor
+Outros,Governança e Leis,Lei de Zoneamento ou Uso e Ocupação do Solo
+Outros,Governança e Leis,Contemplado em Plano de Mobilidade Urbana
+Outros,Origem e Destino,POD - Número médio de viagens diárias
+Outros,Origem e Destino,POD - Distância média das viagens
+Outros,Origem e Destino,POD - Tempo médio das viagens
+Outros,Origem e Destino,POD - Percentual de viagens a pé
+Outros,Origem e Destino,POD - Percentual de viagens de bicicleta
+Outros,Origem e Destino,POD - Percentual de viagens por transporte público
+Outros,Origem e Destino,POD - Percentual de viagens por automóvel individual
+Outros,Origem e Destino,POD - Percentual de viagens por moto
+Outros,Origem e Destino,POD - Percentual de viagens por táxi ou carro de aplicativo
+Outros,Origem e Destino,POD - Percentual de viagens por outros modais
+Infraestrutura,Automóvel,Vagas de Estacionamento Reguladas
+Infraestrutura,Automóvel,Percentual de Vagas de Estacionamento para Deficientes
+Infraestrutura,Automóvel,Percentual de Vagas de Estacionamento para Idosos
+Infraestrutura,Automóvel,Percentual de Vagas de Estacionamento para Gestantes
+Infraestrutura,Automóvel,Existe Fiscalização para Cobrança em Vagas Públicas
+Arrecadação,Tributos,Valor Arrecadado com Cobrança de Estacionamento
+Frota,Ônibus,Frota de Ônibus com Fontes de Energia Alternativa
+Frota,Ônibus,Frota de Ônibus Movido a Etanol (%)
+Frota,Ônibus,Frota de Ônibus Movido a Eletricidade (%)
+Frota,Ônibus,Frota de Ônibus Movido a Gás Natural (%)
+Frota,Ônibus,Frota de Ônibus Movido a Hidrogênio (%)
+Frota,Ônibus,Frota de Ônibus Movido a Biodiesel (%)
+Frota,Ônibus,Frota de Ônibus Híbridos (Eletricidade + Diesel) (%)
+Frota,Táxi,Frota de Táxis com Fontes de Energia Alternativa
+Frota,Táxi,Frota de Táxis Movido a Etanol (%)
+Frota,Táxi,Frota de Táxis Movido a Eletricidade (%)
+Frota,Táxi,Frota de Táxis Movido a Gás Natural (%)
+Frota,Táxi,Frota de Táxis Híbridos (Eletricidade + Gasolina) (%)
+Outros,Governança e Leis,Conselho Municipal de Transporte e/ou Mobilidade Urbana
+Infraestrutura,Trabalhadores,Agentes de Trânsito em Exercício
+Infraestrutura,Equipamentos,Equipamentos de Fiscalização
+Arrecadação,Multas,Valor Arrecadado com Multas de Trânsito
+Demanda,Automóvel,Passageiros de Transporte por Aplicativo
+Frota,Automóvel,Quilômetros Percorridos de Transporte por Aplicativo
+missing,Automóvel,Valor Arrecadado de Transporte por Aplicativo

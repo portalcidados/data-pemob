@@ -1,0 +1,343 @@
+name_variable,code_variable
+"Quais os serviços de transporte público urbano o Governo do Estado é responsável pela gestão, seja por operação direta ou por delegação, na Região Metropolitana ou Aglomeração Urbana?",1.1.1
+Qual o número total de terminais rodoviários na Região Metropolitana ou Aglomeração Urbana sob gestão do Governo do Estado?,1.2.1.A
+"Qual o número total de terminais rodoviários acessíveis com rampas, plataformas de embarque em nível sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?",1.2.1.B
+Qual o número total de terminais rodoviários acessíveis com informações para pessoas com deficiência visual sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.2.1.C
+Qual o número total de estações metroferroviárias na Região Metropolitana ou Aglomeração Urbana sob gestão do Governo do Estado?,1.2.2.A
+"Qual o número total de estações metroferroviárias acessíveis com rampas, plataformas de embarque em nível sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?",1.2.2.B
+Qual o número total de estações metroferroviárias acessíveis com informações para pessoas com deficiência visual sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.2.2.C
+"Os locais georreferenciados dos terminais rodoviários e estações metroferroviárias de transporte, ofertados pelo poder público estadual, estão disponíveis na internet?",1.2.3
+Em qual website é possível obter os pontos de embarque e desembarque georreferenciados?,1.2.3.A
+Qual a frota de veículos operacionais de ônibus na Região Metropolitana ou Aglomeração Urbana?,1.3.1.A
+Qual a capacidade média da frota de ônibus operacionais na Região Metropolitana ou Aglomeração Urbana?,1.3.1.B
+Qual o número de ônibus operacionais de piso baixo na Região Metropolitana ou Aglomeração Urbana?,1.3.1.C
+Qual a capacidade média da frota de ônibus com piso baixo na Região Metropolitana ou Aglomeração Urbana?,1.3.1.D
+Qual o número de ônibus operacionais com plataforma elevatória na Região Metropolitana ou Aglomeração Urbana?,1.3.1.E
+Qual a capacidade média da frota de ônibus com plataforma elevatória na Região Metropolitana ou Aglomeração Urbana?,1.3.1.F
+Qual a frota de veículos operacionais de metrô (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.2.A
+Qual a capacidade média de um veículo de metrô (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.2.B
+Qual a frota de veículos operacionais de trem (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.3.A
+Qual a capacidade média de um veículo de trem (composição) na Região Metropolitana ou Aglomeração Urbna?,1.3.3.B
+Qual a frota de barcos operacionais na Região Metropolitana ou Aglomeração Urbana?,1.3.4.A
+Qual a capacidade média da frota de barco na Região Metropolitana ou Aglomeração Urbana?,1.3.4.B
+Qual a frota de veículos operacionais de VLT (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.5.A
+Qual a capacidade média de um veículo de VLT (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.5.B
+Qual a frota de veículos operacionais de monotrilho (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.6.A
+Qual a capacidade média de um veículo de monotrilho (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.6.B
+Qual a frota de veículos operacionais de aeromóvel (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.7.A
+Qual a capacidade média de um aeromóvel (composição) na Região Metropolitana ou Aglomeração Urbana?,1.3.7.B
+Qual a quilometragem percorrida no ano de 2022 pela frota de ônibus sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.4.1
+Qual a quilometragem percorrida no ano de 2022 pela frota de metrô sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.4.2
+Qual a quilometragem percorrida no ano de 2022 pela frota de trem sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.4.3
+Qual a quilometragem percorrida no ano de 2022 pela frota de barco sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.4.4
+Qual a quilometragem percorrida no ano de 2022 pela frota de VLT sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.4.5
+Qual a quilometragem percorrida no ano de 2022 pela frota de monotrilho sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.4.6
+Qual a quilometragem percorrida no ano de 2022 pela frota de aeromóvel sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,1.4.7
+Qual a idade média da frota do serviço de transporte por ônibus na Região Metropolitana ou Aglomeração Urbana? (em anos),2.1.1
+Qual a idade média da frota do serviço de transporte por metrô na Região Metropolitana ou Aglomeração Urbana? (em anos),2.1.2
+Qual a idade média da frota do serviço de transporte por trem na Região Metropolitana ou Aglomeração Urbana? (em anos),2.1.3
+Qual a idade média da frota do serviço de transporte por VLT na Região Metropolitana ou Aglomeração Urbana? (em anos),2.1.4
+Qual a idade média da frota do serviço de transporte por monotrilho na Região Metropolitana ou Aglomeração Urbana? (em anos),2.1.5
+Qual a idade média da frota do serviço de transporte por aeromóvel na Região Metropolitana ou Aglomeração Urbana? (em anos),2.1.6
+Qual o número de terminais rodoviários com informações aos usuários sobre itinerários sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,2.2.1.A
+Qual o número de terminais rodoviários com informações aos usuários sobre horários sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,2.2.1.B
+Qual o número de terminais rodoviários com informações aos usuários sobre tarifas dos serviços sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,2.2.1.C
+Qual o número de terminais rodoviários com informações aos usuários sobre formas de integração com outros modos de transporte sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,2.2.1.D
+Qual o número de estações metroferroviárias com informações aos usuários sobre itinerários sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,2.2.2.A
+Qual o número de estações metroferroviárias com informações aos usuários sobre horários sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,2.2.2.B
+Qual o número de estações metroferroviárias com informações aos usuários sobre tarifas dos serviços sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,2.2.2.C
+Qual o número de estações metroferroviárias com informações aos usuários sobre formas de integração com outros modos de transporte sob gestão do Governo do Estado na Região Metropolitana ou Aglomeração Urbana?,2.2.2.D
+O Governo do Estado realiza pesquisa de satisfação dos usuários na Região Metropolitana ou Aglomeração Urbana?,2.3.1
+Ano de realização da pesquisa:,2.3.1.A
+Em qual website é possível obter a pesquisa de satisfação dos usuários em formato digital?,2.3.1.B
+O Governo do Estado possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por ônibus?,2.4.1
+Qual a porcentagem de viagens por ônibus foram realizadas dentro do horário programado em 2022? (%),2.4.1.A
+Qual a porcentagem de viagens por ônibus não foram completadas em 2022? (%),2.4.1.B
+O Governo do Estado possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por metrô?,2.4.2
+Qual a porcentagem de viagens por metrô foram realizadas dentro do horário programado em 2022? (%),2.4.2.A
+Qual o percentual de viagens por metrô não foram completadas em 2022? (%),2.4.2.B
+O Governo do Estado possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por trem?,2.4.3
+Qual a porcentagem de viagens por trem foram realizadas dentro do horário programado em 2022? (%),2.4.3.A
+Qual o percentual de viagens por trem não foram completadas em 2022? (%),2.4.3.B
+O Governo do Estado possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por barco?,2.4.4
+Qual a porcentagem de viagens por barco foram realizadas dentro do horário programado em 2022? (%),2.4.4.A
+Qual o percentual de viagens por barco não foram completadas completadas em 2022? (%),2.4.4.B
+O Governo do Estado possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por VLT?,2.4.5
+Qual a porcentagem de viagens por VLT foram realizadas dentro do horário programado em 2022? (%),2.4.5.A
+Qual o percentual de viagens por VLT não foram completadas em 2022? (%),2.4.5.B
+O Governo do Estado possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por aeromóvel?,2.4.6
+Qual a porcentagem de viagens por Monotrilho foram realizadas dentro do horário programado em 2022? (%),2.4.6.A
+Qual o percentual de viagens por monotrilho não foram completadas em 2022? (%),2.4.6.B
+O Governo do Estado possui informações sobre pontualidade e regularidade na prestação do serviço de transporte por monotrilho?,2.4.7
+Qual a porcentagem de viagens por aeromóvel foram realizadas dentro do horário programado em 2022? (%),2.4.7.A
+Qual o percentual de viagens por aeromóvel não foram completadas em 2022? (%),2.4.7.B
+"No caso do transporte público intermunicipal por ônibus, qual o maior fluxo de deslocamento intermunicipal na Região Metropolitana ou Aglomeração Urbana?",3.1.1.A
+"Qual o valor da tarifa predominante no deslocamento intermunicipal de maior fluxo da Região Metropolitana ou Aglomeração Urbana, considerando o centro da cidade origem até o centro da cidade núcleo?",3.1.1.B
+Qual o valor anterior da tarifa predominante no maior fluxo de deslocamento intermunicipal da Região Metropolitana ou Aglomeração Urbana?,3.1.1.C
+"No caso do transporte público intermunicipal por ônibus, qual o segundo maior fluxo de deslocamento intermunicipal na Região Metropolitana ou Aglomeração Urbana?",3.1.1.D
+Qual o valor da tarifa predominante no segundo maior fluxo de deslocamento intermunicipal da Região Metropolitana ou Aglomeração Urbana?,3.1.1.E
+Qual o valor anterior da tarifa predominante no segundo maior fluxo de deslocamento intermunicipal da Região Metropolitana ou Aglomeração Urbana?,3.1.1.F
+Qual o terceiro maior fluxo de deslocamento intermunicipal no transporte público intermunicipal por ônibus da Região Metropolitana ou Aglomeração Urbana?,3.1.1.G
+Qual o valor da tarifa predominante no terceiro maior fluxo de deslocamento intermunicipal da Região Metropolitana ou Aglomeração Urbana?,3.1.1.H
+Qual o valor anterior da tarifa predominante no terceiro maior fluxo de deslocamento intermunicipal da Região Metropolitana ou Aglomeração Urbana?,3.1.1.I
+Qual a data do último reajuste no transporte público intermunicipal por ônibus na Região Metropolitana ou Aglomeração Urbana?,3.1.1.J
+Qual o valor da tarifa predominante (pública) no transporte por metrô na Região Metropolitana ou Aglomeração Urbana?,3.1.2.A
+Qual o valor anterior da tarifa predominante no transporte por metrô na Região Metropolitana ou Aglomeração Urbana?,3.1.2.B
+Qual a data do último reajuste no transporte por metrô na Região Metropolitana ou Aglomeração Urbana?,3.1.2.C
+Qual o valor da tarifa predominante (pública) no transporte por trem na Região Metropolitana ou Aglomeração Urbana?,3.1.3.A
+Qual o valor anterior da tarifa predominante no transporte por trem na Região Metropolitana ou Aglomeração Urbana?,3.1.3.B
+Qual a data do último reajuste no transporte por trem na Região Metropolitana ou Aglomeração Urbana?,3.1.3.C
+Qual o valor da tarifa predominante (pública) no transporte por barco na Região Metropolitana ou Aglomeração Urbana?,3.1.4.A
+Qual o valor anterior da tarifa predominante no transporte por barco na Região Metropolitana ou Aglomeração Urbana?,3.1.4.B
+Qual a data do último reajuste no transporte por barco na Região Metropolitana ou Aglomeração Urbana?,3.1.4.C
+Qual o valor da tarifa predominante (pública) no transporte por VLT na Região Metropolitana ou Aglomeração Urbana?,3.1.5.A
+Qual o valor anterior da tarifa predominante no transporte por VLT na Região Metropolitana ou Aglomeração Urbana?,3.1.5.B
+Qual a data do último reajuste no transporte por VLT na Região Metropolitana ou Aglomeração Urbana?,3.1.5.C
+Qual o valor da tarifa predominante (pública) no transporte por Aeromóvel na Região Metropolitana ou Aglomeração Urbana?,3.1.6.A
+Qual o valor anterior da tarifa predominante no transporte por Aeromóvel na Região Metropolitana ou Aglomeração Urbana?,3.1.6.B
+Qual a data do último reajuste no transporte por Aeromóvel na Região Metropolitana ou Aglomeração Urbana?,3.1.6.C
+Qual o valor da tarifa predominante (pública) no transporte por Monotrilho na Região Metropolitana ou Aglomeração Urbana?,3.1.7.A
+Qual o valor anterior da tarifa predominante no transporte por Monotrilho na Região Metropolitana ou Aglomeração Urbana?,3.1.7.B
+Qual a data do último reajuste no transporte por Monotrilho na Região Metropolitana ou Aglomeração Urbana?,3.1.7.C
+O sistema de transporte público metropolitano possui integração tarifária com outros sistemas de mobilidade urbana municipais?,3.1.8
+Quais são os tipos de integração tarifária existente?,3.1.8.A
+Qual o valor da receita tarifária anual por ônibus arrecadado em 2022?,3.2.1.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por ônibus em 2022?",3.2.1.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por ônibus em 2022?",3.2.1.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por ônibus em 2022?",3.2.1.D
+Qual o valor da receita tarifária anual por metrô arrecadado em 2022?,3.2.2.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por metrô em 2022?",3.2.2.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por metrô em 2022?",3.2.2.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por metrô em 2022?",3.2.2.D
+Qual o valor da receita tarifária anual por trem arrecadado em 2022?,3.2.3.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por trem em 2022?",3.2.3.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por trem em 2022?",3.2.3.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por trem em 2022?",3.2.3.D
+Qual o valor da receita tarifária anual por barco arrecadado em 2022?,3.2.4.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por barco em 2022?",3.2.4.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por barco em 2022?",3.2.4.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por barco em 2022?",3.2.4.D
+Qual o valor da receita tarifária anual por VLT arrecadado em 2022?,3.2.5.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por VLT em 2022?",3.2.5.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por VLT em 2022?",3.2.5.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por VLT em 2022?",3.2.5.D
+Qual o valor da receita tarifária anual por monotrilho arrecadado em 2022?,3.2.6.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por monotrilho em 2022?",3.2.6.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por monotrilho em 2022?",3.2.6.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por monotrilho em 2022?",3.2.6.D
+Qual o valor da receita tarifária anual por aeromóvel arrecadado em 2022?,3.2.7.A
+"Se houver receita extratarifária, qual o valor de subsídio associado a passageiros com benefícios tarifários utilizado no sistema por aeromóvel em 2022?",3.2.7.B
+"Se houver receita extratarifária, qual o valor arrecadado com subsídio direto ao sistema (subvenção) no sistema por aeromóvel em 2022?",3.2.7.C
+"Se houver receita extratarifária, qual o valor arrecadado com publicidade em abrigos, terminais e veículos no sistema por aeromóvel em 2022?",3.2.7.D
+Quais os impostos incidentes no serviço de transporte por ônibus?,3.3.1
+Qual o percentual de ISS incidente no serviço de transporte por ônibus?,3.3.1.A
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por ônibus?,3.3.1.B
+Qual o percentual de PIS incidente no serviço de transporte por ônibus?,3.3.1.C
+Qual o percentual de Cofins incidente no serviço de transporte por ônibus?,3.3.1.D
+Qual o percentual de outros impostos incidentes no serviço de transporte por ônibus?,3.3.1.E
+Quais outros impostos incidem no serviço de transporte por ônibus?,3.3.1.F
+Quais os impostos incidentes no serviço de transporte por metrô?,3.3.2
+Qual o percentual de ISS incidente no serviço de transporte por metrô?,3.3.2.A
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por metrô?,3.3.2.B
+Qual o percentual de PIS incidente no serviço de transporte por metrô?,3.3.2.C
+Qual o percentual de Cofins incidente no serviço de transporte por metrô?,3.3.2.D
+Qual o percentual de outros impostos incidentes no serviço de transporte por metrô?,3.3.2.E
+Quais outros impostos incidem no serviço de transporte por metrô?,3.3.2.F
+Quais os impostos incidentes no serviço de transporte por trem?,3.3.3
+Qual o percentual de ISS incidente no serviço de transporte por trem?,3.3.3.A
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por trem?,3.3.3.B
+Qual o percentual de PIS incidente no serviço de transporte por trem?,3.3.3.C
+Qual o percentual de Cofins incidente no serviço de transporte por trem?,3.3.3.D
+Qual o percentual de outros impostos incidentes no serviço de transporte por trem?,3.3.3.E
+Quais outros impostos incidem no serviço de transporte por trem?,3.3.3.F
+Quais os impostos incidentes no serviço de transporte por barco?,3.3.4
+Qual o percentual de ISS incidente no serviço de transporte por barco?,3.3.4.A
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por barco?,3.3.4.B
+Qual o percentual de PIS incidente no serviço de transporte por barco?,3.3.4.C
+Qual o percentual de Cofins incidente no serviço de transporte por barco?,3.3.4.D
+Qual o percentual de outros impostos incidentes no serviço de transporte por barco?,3.3.4.E
+Quais outros impostos incidem no serviço de transporte por barco?,3.3.4.F
+Quais os impostos incidentes no serviço de transporte por VLT?,3.3.5
+Qual o percentual de ISS incidente no serviço de transporte por VLT?,3.3.5.A
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por VLT?,3.3.5.B
+Qual o percentual de PIS incidente no serviço de transporte por VLT?,3.3.5.C
+Qual o percentual de Cofins incidente no serviço de transporte por VLT?,3.3.5.D
+Qual o percentual de outros impostos incidentes no serviço de transporte por VLT?,3.3.5.E
+Quais outros impostos incidem no serviço de transporte por VLT?,3.3.5.F
+Quais os impostos incidentes no serviço de transporte por monotrilho?,3.3.6
+Qual o percentual de ISS incidente no serviço de transporte por monotrilho?,3.3.6.A
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por monotrilho?,3.3.6.B
+Qual o percentual de PIS incidente no serviço de transporte por monotrilho?,3.3.6.C
+Qual o percentual de Cofins incidente no serviço de transporte por monotrilho?,3.3.6.D
+Qual o percentual de outros impostos incidentes no serviço de transporte por monotrilho?,3.3.6.E
+Quais outros impostos incidem no serviço de transporte por monotrilho?,3.3.6.F
+Quais os impostos incidentes no serviço de transporte por aeromóvel?,3.3.7
+Qual o percentual de ISS incidente no serviço de transporte por aeromóvel?,3.3.7.A
+Qual o percentual de Taxa de Gerenciamento incidente no serviço de transporte por aeromóvel?,3.3.7.B
+Qual o percentual de PIS incidente no serviço de transporte por aeromóvel?,3.3.7.C
+Qual o percentual de Cofins incidente no serviço de transporte por aeromóvel?,3.3.7.D
+Qual o percentual de outros impostos incidentes no serviço de transporte por aeromóvel?,3.3.7.E
+Quais outros impostos incidem no serviço de transporte por aeromóvel?,3.3.7.F
+Qual o número de passageiros comuns transportados no serviço de transporte por ônibus em 2022?,3.4.1.A
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por ônibus em 2022?,3.4.1.B
+Qual o número de estudantes transportados no serviço de transporte por ônibus em 2022?,3.4.1.C
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por ônibus em 2022?,3.4.1.D
+Qual o número de gratuidades no serviço de transporte por ônibus em 2022?,3.4.1.E
+Qual o número de passageiros equivalentes transportados no serviço de transporte por ônibus em 2022?,3.4.1.F
+Qual o número de passageiros comuns transportados no serviço de transporte por metrô em 2022?,3.4.2.A
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por metrô em 2022?,3.4.2.B
+Qual o número de estudantes transportados no serviço de transporte por metrô em 2022?,3.4.2.C
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por metrô em 2022?,3.4.2.D
+Qual o número de gratuidades no serviço de transporte por metrô em 2022?,3.4.2.E
+Qual o número de passageiros equivalentes transportados no serviço de transporte por metrô em 2022?,3.4.2.F
+Qual o número de passageiros comuns transportados no serviço de transporte por trem em 2022?,3.4.3.A
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por trem em 2022?,3.4.3.B
+Qual o número de estudantes transportados no serviço de transporte por trem em 2022?,3.4.3.C
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por trem em 2022?,3.4.3.D
+Qual o número de gratuidades no serviço de transporte por trem em 2022?,3.4.3.E
+Qual o número de passageiros equivalentes transportados no serviço de transporte por trem em 2022?,3.4.3.F
+Qual o número de passageiros comuns transportados no serviço de transporte por barco em 2022?,3.4.4.A
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por barco em 2022?,3.4.4.B
+Qual o número de estudantes transportados no serviço de transporte por barco em 2022?,3.4.4.C
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por barco em 2022?,3.4.4.D
+Qual o número de gratuidades no serviço de transporte por barco em 2022?,3.4.4.E
+Qual o número de passageiros equivalentes transportados no serviço de transporte por barco em 2022?,3.4.4.F
+Qual o número de passageiros comuns transportados no serviço de transporte por VLT em 2022?,3.4.5.A
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por VLT em 2022?,3.4.5.B
+Qual o número de estudantes transportados no serviço de transporte por VLT em 2022?,3.4.5.C
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por VLT em 2022?,3.4.5.D
+Qual o número de gratuidades no serviço de transporte por VLT em 2022?,3.4.5.E
+Qual o número de passageiros equivalentes transportados no serviço de transporte por VLT em 2022?,3.4.5.F
+Qual o número de passageiros comuns transportados no serviço de transporte por monotrilho em 2022?,3.4.6.A
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por monotrilho em 2022?,3.4.6.B
+Qual o número de estudantes transportados no serviço de transporte por monotrilho em 2022?,3.4.6.C
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por monotrilho em 2022?,3.4.6.D
+Qual o número de gratuidades no serviço de transporte por monotrilho em 2022?,3.4.6.E
+Qual o número de passageiros equivalentes transportados no serviço de transporte por monotrilho em 2022?,3.4.6.F
+Qual o número de passageiros comuns transportados no serviço de transporte por aeromóvel em 2022?,3.4.7.A
+Qual o número de passageiros transportados com Vale Transporte no serviço de transporte por aeromóvel em 2022?,3.4.7.B
+Qual o número de estudantes transportados no serviço de transporte por aeromóvel em 2022?,3.4.7.C
+Qual o número de passageiros transportados com integração tarifária no serviço de transporte por aeromóvel em 2022?,3.4.7.D
+Qual o número de gratuidades no serviço de transporte por aeromóvel em 2022?,3.4.7.E
+Qual o número de passageiros equivalentes transportados no serviço de transporte por aeromóvel em 2022?,3.4.7.F
+Quais categorias de passageiros recebem desconto no valor da tarifa do serviço de transporte público na Região Metropolitana ou Aglomeração Urbana?,3.5.1
+Qual o percentual de desconto sobre a valor da tarifa pago pelos passageiros de baixa renda?,3.5.1.A
+Qual a renda máxima das pessoas de baixa renda que recebem desconto na no valor da tarifa? (Em salários mínimos),3.5.1.AA
+Qual o percentual de desconto sobre a valor da tarifa pago pelos passageiros com idade de 60 a 64 anos?,3.5.1.B
+Qual o percentual de desconto sobre a valor da tarifa pago pelos passageiros com deficiência e mobilidade reduzida?,3.5.1.C
+Qual o percentual de desconto sobre a valor da tarifa pago pelos estudantes da rede pública de ensino?,3.5.1.D
+Qual o percentual de desconto sobre a valor da tarifa pago pelos estudantes da rede privada de ensino?,3.5.1.E
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de ônibus?,3.6.1
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por ônibus?,3.6.1.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por ônibus?,3.6.1.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por ônibus?,3.6.1.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por ônibus?,3.6.1.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por ônibus?,3.6.1.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por ônibus?",3.6.1.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por ônibus?,3.6.1.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por ônibus?,3.6.1.H
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por ônibus?,3.6.1.I
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de metrô?,3.6.2
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por metrô?",3.6.2.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por metrô?,3.6.2.L
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de trem?,3.6.3
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por trem?",3.6.3.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por trem?,3.6.3.L
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de barco?,3.6.4
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por barco?,3.6.4.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por barco?,3.6.4.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por barco?,3.6.4.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por barco?,3.6.4.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por barco?,3.6.4.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por barco?",3.6.4.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por barco?,3.6.4.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por barco?,3.6.4.H
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por barco?,3.6.4.I
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de VLT?,3.6.5
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por VLT?",3.6.5.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por VLT?,3.6.5.L
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de monotrilho?,3.6.6
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?",3.6.6.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por monotrilho?,3.6.6.L
+É utilizada planilha de custos para reajuste ou revisão da tarifa do serviço de aeromóvel?,3.6.7
+Mão de obra 1 (operação) diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.A
+Mão de obra 2 (administrativo) diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.B
+Combustíveis dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.C
+Depreciação de veículos diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.D
+Remuneração pela prestação do serviço diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.E
+"Peças, acessórios e material de rodagem dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?",3.6.7.F
+Impostos e tributação dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.G
+Despesas administrativas dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.H
+Energia diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.I
+IPTU diz respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.J
+Outros insumos dizem respeito a qual percentual da planilha de custos do serviço por aeromóvel?,3.6.7.L
+A Região Metropolitana ou Aglomeração Urbana está contemplada em algum Plano de Mobilidade Urbana de Região Metropolitana ou Aglomeração Urbana?,4.1.1
+Em qual website é possível obter o Plano de Mobilidade Urbana de Região Metropolitana ou Aglomeração Urbana em formato digital?,4.1.1.A
+A Região Metropolitana ou Aglomeração Urbana está contemplada em algum Plano de Desenvolvimento Urbano Integrado (PDUI) (Lei Federal nº 13.089/2015 - Estatuto da Metrópole)?,4.1.2
+Em qual website é possível obter o Plano de Desenvolvimento Urbano Integrado (PDUI) em formato digital?,4.1.2.A
+O Governo do Estado já realizou pesquisa Origem-Destino (O/D) na Região Metropolitana ou Aglomeração Urbana?,4.2.1
+Qual o ano de realização da última pesquisa O/D?,4.2.1.A
+Qual a periodicidade de realização da pesquisa?,4.2.1.B
+Em qual website é possível obter a Pesquisa Origem-Destino em formato digital?,4.2.1.C
+"Considerando todos os modos de transporte e as pesquisa O/D realizadas, qual o número médio de viagens diárias?",4.2.1.D
+"Considerando todos os modos de transporte e as pesquisas O/D realizadas, qual a distância média das viagens? (Em km)",4.2.1.E
+"Considerando todos os modos de transportes e as pesquisas O/D realizadas, qual o tempo médio das viagens realizadas? (Em minutos)",4.2.1.F
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas a pé? (Em %)",4.2.1.G
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas de bicicleta? (Em %)",4.2.1.H
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por transporte coletivo? (Em %)",4.2.1.I
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por transporte individual motorizado (automóvel)? (Em %)",4.2.1.J
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por transporte individual motorizado (moto)? (Em %)",4.2.1.K
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por transporte individual remunerado (táxi, aplicativos)? (Em %)",4.2.1.L
+"Considerando a divisão modal identificada pelas pesquisas O/D realizadas, qual o percentual de viagens realizadas por outros modos de transporte? (Em %)",4.2.1.M
+"Na composição da frota de transporte público coletivo, existem ônibus que utilizam tecnologia veicular ou fontes de energia alternativa?",5.1.1
+Qual o percentual da frota que utiliza etanol como fonte de energia?,5.1.1.A
+Qual o percentual da frota que utiliza eletricidade como fonte de energia?,5.1.1.B
+Qual o percentual da frota que utiliza gás natural como fonte de energia?,5.1.1.C
+Qual o percentual da frota que utiliza hidrogênio como fonte de energia?,5.1.1.D
+Qual o percentual da frota que utiliza biodiesel como fonte de energia?,5.1.1.E
+Qual o percentual da frota que utiliza energia híbrida (eletricidade + diesel)?,5.1.1.F
+O órgão responsável pela gestão do sistema de mobilidade urbana na Região Metropolitana ou Aglomeração Urbana caracteriza-se como:,6.1.1
+De que modo o serviço de transporte público coletivo regulamentado é ofertado na Região Metropolitana ou Aglomeração Urbana?,7.1.1
+Quais as modalidades de delegação de serviço de transporte público coletivo existe na Região Metropolitana ou Aglomeração Urbana?,7.1.2
+O serviço de transporte público coletivo regulamentado é licitado?,7.2.1
+Qual o prazo do contrato? (Em anos),7.2.1.A
+Qual é a data de vencimento do contrato?,7.2.2.B
+"Para a remuneração do operador do sistema de transporte público coletivo, quais aspectos são levados em conta?",7.3.1
+Quais as inovações tecnológicas presentes na mobilidade urbana da Região Metropolitana ou Aglomeração Urbana?,8.1.1
+Quais outras inovações tecnológicas na mobilidade urbana estão presentes na Região Metropolitana ou Aglomeração Urbana?,8.1.1.A

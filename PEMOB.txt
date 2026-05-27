@@ -1,0 +1,48 @@
+# PEMOB
+- dashboard + tabela
+- enviar os dados para Lucas em json
+
+# Catálogo de Dados
+- Reuniões com as cidades
+
+# GeoServer
+- Decidiu usar o MapBox
+
+TO-DOs 13/08
+
+* DataVerse
+- Organizar os envios DataVerse -> ver o que já foi enviado e o que falta
+- Separar todos os links DataVerse -> tabela
+* Cidades
+- Terminar Rio de Janeiro
+- Terminar Niterói
+- Terminar Poa e BH
+
+- Organizar os envios GeoServer -> ver o que já está pronto e o que falta
+-> fazer o envio CCD
+
+Reunião PEMOB
+
+
+@ Claudio Ferreira
+* tratamento de outliers
+* interpolacao
+
+@ Danielle Costa
+* Acesso ao site (restrito)
+* Atualizacao da coleta
+* atualizacao dos dados
+
+# Reunião CCD
+
+Infraestrutura boa para trabalhar com os dados
+
+
+* Como carregar dados na VM? Sempre FileSender?
+	- FileSender 
+* Melhor no browser ou no client nativo?
+* Banco, como funciona?
+
+
+# Reunião 15/08
+

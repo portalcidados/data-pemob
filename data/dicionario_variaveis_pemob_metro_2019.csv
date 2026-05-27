@@ -1,0 +1,325 @@
+name_variable,code_variable
+Transporte metropolitano,1.1.1
+Nº de terminais rodoviários,1.2.1.A
+Nº de estações metroferroviárias,1.2.1.B
+"Terminais rodoviários acessíveis com rampas, plataformas de embarque em nível",1.2.2.A
+"Estações metroferroviárias acessíveis com rampas, plataformas de embarque em nível",1.2.2.B
+Terminais rodoviários acessíveis com informações para pessoas com deficiência visual,1.2.3.A
+Estações metroferroviárias acessíveis com informações para pessoas com deficiência visual,1.2.3.B
+Terminais e estações georreferenciados?,1.2.4
+Website do arquivo com pontos de embarque e desembarque georreferenciados,1.2.4.A
+Ônibus: Número de veículos,1.3.1.A
+Ônibus: Capacidade média,1.3.1.B
+Ônibus: Nº de veículos de piso baixo,1.3.1.C
+Ônibus: Nº de veículos com plataforma elevatória,1.3.1.D
+Metrô: Número de veículos,1.3.2.A
+Trem: Número de veículos,1.3.2.B
+Barco: Número de veículos,1.3.2.C
+VLT: Número de veículos,1.3.2.D
+Aeromóvel: Nº de veículos,1.3.2.E
+Monotrilho: Nº de veículos,1.3.2.F
+Metrô: Capacidade média,1.3.3.A
+Trem: Capacidade média,1.3.3.B
+Barco: Capacidade média,1.3.3.C
+VLT: Capacidade média,1.3.3.D
+Monotrilho: Capacidade média,1.3.3.E
+Aeromóvel: Capacidade média,1.3.3.F
+Km BRTs,1.4.1.A
+KM Metrô,1.4.1.B
+Km Trem,1.4.1.C
+Km VLT,1.4.1.D
+Km Monotrilho,1.4.1.E
+Km Aeromóvel,1.4.1.F
+KM percorrida - Ônibus,1.5.1.A
+Km percorrida - Metrô,1.5.1.B
+Km percorrida - Trem,1.5.1.C
+Km percorrida - VLT,1.5.1.E
+Km percorrida - Monotrilho,1.5.1.F
+Km percorrida - Aeromóvel,1.5.1.G
+Idade média da frota - Ônibus,2.1.1.A
+Idade média da frota - Metrô,2.1.1.B
+Idade média da frota - Trem,2.1.1.C
+Idade média da frota - VLT,2.1.1.D
+Idade média da frota - Monotrilho,2.1.1.E
+Idade média da frota - Aeromóvel,2.1.1.F
+Terminais rodoviários com informações  - Itinerários,2.2.1.A
+Terminais rodoviários com informações  - Horários,2.2.1.B
+Terminais rodoviários com informações  - Tarifas dos serviços,2.2.1.C
+Terminais rodoviários com informações  - Integração com outros modos,2.2.1.D
+Estações metroferroviárias com informações  - Itinerários,2.2.2.A
+Estações metroferroviárias com informações  - Horários,2.2.2.B
+Estações metroferroviárias com informações  - Tarifas dos serviços,2.2.2.C
+Estações metroferroviárias com informações  - Integração com outros modos,2.2.2.D
+Pesquisa de satisfação dos usuários,2.3.1
+Ano de realização:,2.3.1.A
+Website da Pesquisa de satisfação dos usuários,2.3.1.B
+Pontualidade - Ônibus (%),2.4.1.A
+Pontualidade - Metrô (%),2.4.1.B
+Pontualidade - Trem (%),2.4.1.C
+Pontualidade - Barco (%),2.4.1.D
+Pontualidade - VLT (%),2.4.1.E
+Pontualidade - Monotrilho (%),2.4.1.F
+Pontualidade - Aeromóvel (%),2.4.1.G
+Viagens não completadas - Ônibus (%),2.4.2.A
+Viagens não completadas - Metrô (%),2.4.2.B
+Viagens não completadas - Trem (%),2.4.2.C
+Viagens não completadas - Barco (%),2.4.2.D
+Viagens não completadas- VLT (%),2.4.2.E
+Viagens não completadas - Aeromóvel (%),2.4.2.F
+Viagens não completadas - Monotrilho (%),2.4.2.G
+Tarifa predominante - Metrô (R$),3.1.1.A
+Tarifa predominante - Trem (R$),3.1.1.B
+Tarifa predominante - Barco (R$),3.1.1.C
+Tarifa predominante - VLT (R$),3.1.1.D
+Tarifa predominante - Aeromóvel (R$),3.1.1.E
+Tarifa predominante - Monotrilho (R$),3.1.1.F
+3 maiores fluxos de deslocamento intermunicipais,3.1.2.A
+Tarifa predominante - Ônibus,3.1.2.B
+Valor anterior  (R$) - Metrô,3.1.3.A
+Valor anterior (R$) - Trem,3.1.3.B
+Valor anterior  (R$) - Barco,3.1.3.C
+Valor anterior  (R$) - VLT,3.1.3.D
+Valor anterior (R$) - Aeromóvel,3.1.3.E
+Valor anterior  (R$) - Monotrilho,3.1.3.F
+Valores anteriores - Ônibus,3.1.4
+Data do último reajuste (mm/aaaa) - Ônibus,3.1.5.A
+Data do último reajuste (mm/aaaa) - Metrô,3.1.5.B
+Data do último reajuste (mm/aaaa) - Trem,3.1.5.C
+Data do último reajuste (mm/aaaa) - Barco,3.1.5.D
+Data do último reajuste (mm/aaaa) - VLT,3.1.5.E
+Data do último reajuste (mm/aaaa) - Aeromóvel,3.1.5.F
+Data do último reajuste (mm/aaaa) - Monotrilho,3.1.5.G
+Integração tarifária,3.1.6.A
+Receita tarifária - Ônibus,3.2.1.A
+Receita tarifária - Metrô,3.2.1.B
+Receita tarifária - Trem,3.2.1.C
+Receita tarifária - Barco,3.2.1.D
+Receita tarifária - VLT,3.2.1.E
+Receita tarifária - Aeromóvel,3.2.1.F
+Receita tarifária - Monotrilho,3.2.1.G
+Receita extratarifária - Ônibus,3.2.2.A
+Receita extratarifária - Metrô,3.2.2.B
+Receita extratarifária - Trem,3.2.2.C
+Receita extratarifária - Barco,3.2.2.D
+Receita extratarifária - VLT,3.2.2.E
+Receita extratarifária - Aeromóvel,3.2.2.F
+Receita extratarifária - Monotrilho,3.2.2.G
+Subsídio público - Ônibus (R$),3.2.3.A
+Subsídio público - Metrô (R$),3.2.3.B
+Subsídio público - Trem (R$),3.2.3.C
+Subsídio público - Barco (R$),3.2.3.D
+Subsídio público - VLT (R$),3.2.3.E
+Subsídio público - Aeromóvel (R$),3.2.3.F
+Subsídio público - Monotrilho (R$),3.2.3.G
+Publicidade - Ônibus (R$),3.2.4.A
+Publicidade - Metrô (R$),3.2.4.B
+Publicidade - Trem (R$),3.2.4.C
+Publicidade - Barco (R$),3.2.4.D
+Publicidade - VLT (R$),3.2.4.E
+Publicidade - Aeromóvel (R$),3.2.4.F
+Publicidade - Monotrilho (R$),3.2.4.G
+Outras fontes - Ônibus (R$),3.2.5.A
+Outras fontes - Metrô (R$),3.2.5.B
+Outras fontes - Trem (R$),3.2.5.C
+Outras fontes- Barco (R$),3.2.5.D
+Outras fontes - VLT (R$),3.2.5.E
+Outras fontes - Aeromóvel (R$),3.2.5.F
+Outras fontes - Monotrilho (R$),3.2.5.G
+Impostos: ISS (%) - Ônibus,3.3.1.A
+Impostos: Taxa de Gerenciamento (%) - Ônibus,3.3.1.B
+Impostos: PIS (%) - Ônibus,3.3.1.C
+Impostos: Cofins (%) - Ônibus,3.3.1.D
+Impostos: Outros (%) - Ônibus,3.3.1.E
+Impostos: ISS (%) - Metrô,3.3.1.F
+Impostos: Taxa de Gerenciamento (%) - Metrô,3.3.1.G
+Impostos: PIS (%) - Metrô,3.3.1.H
+Impostos: Cofins (%) - Metrô,3.3.1.I
+Impostos: Outros (%) - Metrô,3.3.1.J
+Impostos: ISS (%) - Trem,3.3.1.K
+Impostos: Taxa de Gerenciamento (%) - Trem,3.3.1.L
+Impostos: PIS (%) - Trem,3.3.1.M
+Impostos: Cofins (%) - Trem,3.3.1.N
+Impostos: Outros (%) - Trem,3.3.1.O
+Impostos: ISS (%) - Barco,3.3.1.P
+Impostos: Taxa de Gerenciamento (%) - Barco,3.3.1.Q
+Impostos: PIS (%) - Barco,3.3.1.R
+Impostos: Cofins (%) - Barco,3.3.1.S
+Impostos: Outros (%) - Barco,3.3.1.T
+Impostos: ISS (%) - VLT,3.3.1.U
+Impostos: Taxa de Gerenciamento (%) - VLT,3.3.1.V
+Impostos: PIS (%) - VLT,3.3.1.W
+Impostos: Cofins (%) - VLT,3.3.1.X
+Impostos: Outros (%) - VLT,3.3.1.Y
+Impostos: ISS (%) - Aeromóvel,3.3.1.Z
+Impostos: Taxa de Gerenciamento (%) - Aeromóvel,3.3.1.AA
+Impostos: PIS (%) - Aeromóvel,3.3.1.AB
+Impostos : Cofins (%) - Aeromóvel,3.3.1.AC
+Impostos: Outros (%) - Aeromóvel,3.3.1.AD
+Impostos: ISS (%) - Monotrilho,3.3.1.AE
+Impostos: Taxa de Gerenciamento (%) - Monotrilho,3.3.1.AF
+Impostos: PIS (%) - Monotrilho,3.3.1.AG
+Impostos: Cofins (%) - Monotrilho,3.3.1.AH
+Impostos: Outros (%) - Monotrilho,3.3.1.AI
+Passageiros transportados: Pagante comum - Ônibus,3.4.1.A
+Passageiros transportados: Vale Transporte - Ônibus,3.4.1.B
+Passageiros transportados: Estudante - Ônibus,3.4.1.C
+Passageiros transportados: Integração - Ônibus,3.4.1.D
+Passageiros transportados: Gratuidades - Ônibus,3.4.1.E
+Passageiros transportados: Equivalentes - Ônibus,3.4.1.F
+Passageiros transportados: Pagante comum - Metrô,3.4.1.G
+Passageiros transportados: Vale Transporte - Metrô,3.4.1.H
+Passageiros transportados: Estudante - Metrô,3.4.1.I
+Passageiros transportados: Integração - Metrô,3.4.1.J
+Passageiros transportados: Gratuidades - Metrô,3.4.1.K
+Passageiros transportados: Equivalentes - Metrô,3.4.1.L
+Passageiros transportados: Pagante comum -Trem,3.4.1.M
+Passageiros transportados: Vale Transporte - Trem,3.4.1.N
+Passageiros transportados: Estudante - Trem,3.4.1.O
+Passageiros transportados: Integração - Trem,3.4.1.P
+Passageiros transportados: Gratuidades - Trem,3.4.1.Q
+Passageiros transportados: Equivalentes - Trem,3.4.1.R
+Passageiros transportados: Pagante comum - Barco,3.4.1.S
+Passageiros transportados: Vale Transporte - Barco,3.4.1.T
+Passageiros transportados: Estudante - Barco,3.4.1.U
+Passageiros transportados: Integração - Barco,3.4.1.V
+Passageiros transportados: Gratuidades - Barco,3.4.1.W
+Passageiros transportados: Equivalentes - Barco,3.4.1.X
+Passageiros transportados: Pagante comum - VLT,3.4.1.Y
+Passageiros transportados: Vale Transporte - VLT,3.4.1.Z
+Passageiros transportados: Estudante - VLT,3.4.1.AA
+Passageiros transportados: Integração - VLT,3.4.1.AB
+Passageiros transportados: Gratuidades - VLT,3.4.1.AC
+Passageiros transportados: Equivalentes - VLT,3.4.1.AD
+Passageiros transportados: Pagante comum - Aeromóvel,3.4.1.AE
+Passageiros transportados: Vale Transporte - Aeromóvel,3.4.1.AF
+Passageiros transportados: Estudante - Aeromóvel,3.4.1.AG
+Passageiros transportados: Integração - Aeromóvel,3.4.1.AH
+Passageiros transportados: Gratuidades - Aeromóvel,3.4.1.AI
+Passageiros transportados: Equivalentes - Aeromóvel,3.4.1.AJ
+Passageiros transportados: Pagante comum - Monotrilho,3.4.1.AK
+Passageiros transportados: Vale Transporte - Monotrilho,3.4.1.AL
+Passageiros transportados: Estudante - Monotrilho,3.4.1.AM
+Passageiros transportados: Integração - Monotrilho,3.4.1.AN
+Passageiros transportados: Gratuidades - Monotrilho,3.4.1.AO
+Passageiros transportados: Equivalentes - Monotrilho,3.4.1.AP
+Descontos - Pessoas de baixa renda (%),3.5.1.A
+Pessoas de baixa renda –  Limite de renda (Em Salários Mínimos),3.5.1.B
+Desconto para pessoas 60 a 65 anos (%),3.5.1.C
+Desconto para pessoas com deficiência e mobilidade reduzida (%),3.5.1.D
+Desconto para estudantes da rede pública (%),3.5.1.E
+Desconto para estudantes da rede privada (%),3.5.1.F
+Tarifa definida em planilha de custos,3.6.1
+Principais insumos % do custo: Combustível - Ônibus,3.6.1.A
+Principais insumos % do custo: Despesa com pessoal/Operação - Ônibus,3.6.1.B
+Principais insumos % do custo: Depreciação/Veículos - Ônibus,3.6.1.C
+Principais insumos % do custo: Peças e acessórios - Ônibus,3.6.1.D
+Principais insumos % do custo:  Outros -Ônibus,3.6.1.E
+Principais insumos % do custo: Despesa com pessoal/Operação - Metrô,3.6.1.F
+Principais insumos % do custo: Depreciação/Veículos - Metrô,3.6.1.G
+Principais insumos % do custo: Peças e acessórios - Metrô,3.6.1.H
+Principais insumos % do custo: Energia - Metrô,3.6.1.I
+Principais insumos % do custo: IPTU - Metrô,3.6.1.J
+Principais insumos % do custo: Outros - Metrô,3.6.1.K
+Principais insumos % do custo: Combustível - Trem,3.6.1.L
+Principais insumos % do custo: Despesa com pessoal/Operação - Trem,3.6.1.M
+Principais insumos % do custo: Depreciação/Veículos - Trem,3.6.1.N
+Principais insumos % do custo: Peças e acessórios - Trem,3.6.1.O
+Principais insumos % do custo: Energia - Trem,3.6.1.P
+Principais insumos % do custo: IPTU - Trem,3.6.1.Q
+Principais insumos % do custo: Outros - Trem,3.6.1.R
+Principais insumos % do custo: Combustível - Barco,3.6.1.S
+Principais insumos % do custo: Despesa com pessoal/Operação - Barco,3.6.1.T
+Principais insumos % do custo: Depreciação/Veículos - Barco,3.6.1.U
+Principais insumos % do custo: Peças e acessórios - Barco,3.6.1.V
+Principais insumos % do custo: Outros - Barco,3.6.1.W
+Principais insumos % do custo: Despesa com pessoal/Operação - VLT,3.6.1.X
+Principais insumos % do custo: Depreciação/Veículos - VLT,3.6.1.Y
+Principais insumos % do custo: Peças e acessórios - VLT,3.6.1.Z
+Principais insumos % do custo: Energia - VLT,3.6.1.AA
+Principais insumos % do custo: IPTU - VLT,3.6.1.AB
+Principais insumos % do custo: Outros - VLT,3.6.1.AC
+Principais insumos % do custo: Despesa com pessoal/Operação - Aeromóvel,3.6.1.AD
+Principais insumos % do custo: Depreciação/Veículos - Aeromóvel,3.6.1.AE
+Principais insumos % do custo: Peças e acessórios - Aeromóvel,3.6.1.AF
+Principais insumos % do custo: Energia - Aeromóvel,3.6.1.AG
+Principais insumos % do custo: IPTU - Aeromóvel,3.6.1.AH
+Principais insumos % do custo: Outros - Aeromóvel,3.6.1.AI
+Principais insumos % do custo: Despesa com pessoal/Operação - Monotrilho,3.6.1.AJ
+Principais insumos % do custo: Depreciação/Veículos - Monotrilho,3.6.1.AK
+Principais insumos % do custo: Peças e acessórios - Monotrilho,3.6.1.AL
+Principais insumos % do custo: Energia - Monotrilho,3.6.1.AM
+Principais insumos % do custo: IPTU - Monotrilho,3.6.1.AN
+Principais insumos % do custo: Outros - Monotrilho,3.6.1.AO
+Plano de Mobilidade Urbana de RM ou AU,4.1.1
+Website do Plano de Mobilidade Urbana de RM ou AU,4.1.1.A
+PDUI,4.1.2
+Website PDUI,4.1.2.A
+Pesquisa O/D,4.2.1
+Ano de realização da última pesquisa O/D,4.2.1.A
+Periodicidade (Anos),4.2.1.B
+Website Pesquisa O/D,4.2.1.C
+Número médio de viagens diárias,4.2.1.D
+Distância média das viagens (Em km),4.2.1.E
+Tempo médio das viagens realizadas (Em minutos),4.2.1.F
+Divisão modal -  A pé (%),4.2.1.GA
+Divisão modal - Bicicleta (%),4.2.1.GB
+Divisão modal - Transporte coletivo (%),4.2.1.GC
+Divisão modal -Transporte individual motorizado (Automóvel) (%),4.2.1.G
+Divisão modal -Transporte individual motorizado (Moto) (%),4.2.1.GE
+Divisão modal -Outros (%),4.2.1.GF
+Fonte de energia alternativa - Ônibus,5.1.1
+Energia menos poluente: Etanol - % frota,5.1.1.A
+Energia menos poluente: Eletrecidade - % frota,5.1.1.B
+Energia menos poluente: Gás Natural - % frota,5.1.1.C
+Energia menos poluente: Hidrogênio - % frota,5.1.1.D
+Energia menos poluente é utilizada: Biodiesel - % frota,5.1.1.E
+Energia menos poluente: Híbrido (Eletrecidade+Diesel) - % frota,5.1.1.F
+Eestação de monitoramento da qualidade do ar,5.2.1
+Poluentes monitorados,5.2.1.A
+Órgão responsável pela gestão do sistema de mobilidade urbana,6.1.1
+Transporte público coletivo regulamentado - Ônibus,7.1.1.A
+Transporte público coletivo regulamentado - Metrô,7.1.1.B
+Transporte público coletivo regulamentado - Trem,7.1.1.C
+Transporte público coletivo regulamentado - Barco,7.1.1.D
+Transporte público coletivo regulamentado - VLT,7.1.1.E
+Transporte público coletivo regulamentado - Aeromóvel,7.1.1.F
+Transporte público coletivo regulamentado - Monotrilho,7.1.1.G
+Delegação de serviço de transporte público coletivo - Ônibus,7.1.2.A
+Delegação de serviço de transporte público coletivo  - Metrô,7.1.2.B
+Delegação de serviço de transporte público coletivo - Trem,7.1.2.C
+Delegação de serviço de transporte público coletivo - Barco,7.1.2.D
+Delegação de serviço de transporte público coletivo - VLT,7.1.2.E
+Delegação de serviço de transporte público coletivo - Aeromóvel,7.1.2.F
+Delegação de serviço de transporte público coletivo - Monotrilho,7.1.2.G
+Transporte público coletivo é licitado - Ônibus,7.2.1.A
+Transporte público coletivo é licitado - Metrô,7.2.1.B
+Transporte público coletivo é licitado - Trem,7.2.1.C
+Transporte público coletivo é licitado - Barco,7.2.1.D
+Transporte público coletivo é licitado - VLT,7.2.1.E
+O serviço de transporte público coletivo regulamentado é licitado? - Aeromóvel,7.2.1.F
+Transporte público coletivo é licitado - Monotrilho,7.2.1.G
+Prazo do contrato (em anos) - Ônibus,7.2.2.A
+Vencimento do contrato (mm/aa) - Ônibus,7.2.2.B
+Prazo do contrato (em anos) - Metrô,7.2.2.C
+Data de vencimento do contrato (mm/aa) - Metrô,7.2.2.D
+Prazo do contrato (em anos) - Trem,7.2.2.E
+Data de vencimento do contrato (mm/aa) - Trem,7.2.2.F
+Prazo do contrato (em anos) - Barco,7.2.2.G
+Vencimento do contrato (mm/aa) - Barco,7.2.2.H
+Prazo do contrato (em anos) - VLT,7.2.2.I
+Vencimento do contrato (mm/aa) - VLT,7.2.2.J
+Prazo do contrato (em anos) - Aeromóvel,7.2.2.K
+Vencimento do contrato (mm/aa) - Aeromóvel,7.2.2.L
+Prazo do contrato (em anos) - Monotrilho,7.2.2.M
+Vencimento do contrato (mm/aa) - Monotrilho,7.2.2.O
+Base de remuneração do operador,7.3.1
+Inovações tecnológicas: Bilhetagem eletrônica,8.1.1.A
+Inovações tecnológicas: Monitoramento eletrônico de frotas,8.1.1.B
+Inovações tecnológicas: (AVL),8.1.1.C
+Inovações tecnológicas: CCO,8.1.1.D
+Inovações tecnológicas: Centro de controle de tráfego,8.1.1.E
+Inovações tecnológicas: Sistema de semáforos inteligentes,8.1.1.F
+Inovações tecnológicas: Outro,8.1.1.G
+Inovações tecnológicas: Outro : Qual ?,8.1.1.H
+Possui dados GTFS,8.2.1
+Website dos dados GTFS,8.2.1.A
