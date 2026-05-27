@@ -1,22 +1,19 @@
-# data-pemob
+# PEMOB
 
-Pipeline em R para processamento e publicação dos dados da PEMOB
-(Pesquisa de Mobilidade Urbana) no Portal das Cidades.
+Pipeline em R para processamento, harmonização e publicação dos dados da PEMOB
+(Pesquisa Nacional de Mobilidade Urbana).
 
 ## Estrutura
 
 - `R/` — scripts de processamento
   - `pemob.R`, `pemob_final.R` — pipeline principal (municipal)
   - `pemob_metropolitana.R` — pipeline regiões metropolitanas
-  - `pemob_portal.R`, `pemob_portal_final.R` — preparação dos arquivos
+  - `pemob_portal.R` — preparação dos arquivos
     JSON consumidos pelo portal
-  - `pemob_data_portal.R`, `amostra_dashboard.R` — exportações auxiliares
   - `pemob_errors.R` — utilitários de validação
 - `data-raw/` — dados brutos PEMOB (2019–2025, municipal e metropolitana)
 - `data/` — dicionários, categorias e arquivos derivados
-  - `portal/v1/` — JSONs anuais publicados no portal
 - `tabelas/` — tabelas de referência (códigos, harmonização)
-- `generate_filter_categories.R` — geração das categorias de filtros do portal
 
 ## Saídas do portal
 
